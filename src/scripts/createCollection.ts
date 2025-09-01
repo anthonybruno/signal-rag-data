@@ -11,7 +11,8 @@ import { logger } from '@/utils/logger';
 const env = getEnv();
 const DATA_DIR = 'data';
 const chromaClient = new ChromaClient({
-  path: `${env.CHROMA_HOST}:${env.CHROMA_PORT}`,
+  host: env.CHROMA_HOST,
+  port: parseInt(env.CHROMA_PORT, 10),
 });
 
 /**
