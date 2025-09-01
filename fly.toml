@@ -1,12 +1,14 @@
-app = "signal-rag-process-data"
+app = "signal-rag-data"
 primary_region = "dfw"
 
 [build]
   dockerfile = "Dockerfile"
 
 [env]
-  CHROMA_HOST = "signal-rag.fly.dev"
-  CHROMA_PORT = "443"
+  OPENAI_EMBEDDING_MODEL = "text-embedding-3-large"
+  CHROMA_COLLECTION_NAME = "signal_knowledge"
+  CHROMA_HOST = "signal-rag-chroma.internal"
+  CHROMA_PORT = "8000"
 
 [[vm]]
   cpu_kind = "shared"

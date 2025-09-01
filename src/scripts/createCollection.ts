@@ -10,6 +10,9 @@ import { logger } from '@/utils/logger';
 
 const env = getEnv();
 const DATA_DIR = 'data';
+const chromaClient = new ChromaClient({
+  path: `${env.CHROMA_HOST}:${env.CHROMA_PORT}`,
+});
 
 /**
  * Flattens document data using a template for ChromaDB
@@ -78,18 +81,16 @@ function loadAllData(): Types.FlattenedData {
  * Initializes a new ChromaDB collection with OpenAI embeddings
  */
 async function initializeChromaCollection(): Promise<void> {
-  const client = new ChromaClient({
-    host: env.CHROMA_HOST,
-    port: env.CHROMA_PORT,
-  });
+  const heartbeat = await chromaClient.heartbeat();
+  console.log('Heartbeat:', heartbeat);
 
   try {
-    await client.deleteCollection({
+    await chromaClient.deleteCollection({
       name: env.CHROMA_COLLECTION_NAME,
     });
     logger.info(`Deleted collection: ${env.CHROMA_COLLECTION_NAME}`);
 
-    await client.createCollection({
+    await chromaClient.createCollection({
       name: env.CHROMA_COLLECTION_NAME,
       embeddingFunction: new OpenAIEmbeddingFunction({
         apiKey: env.OPENAI_API_KEY,
@@ -113,10 +114,8 @@ async function initializeChromaCollection(): Promise<void> {
  * Adds flattened document data to the ChromaDB collection
  */
 async function addDataToChroma(data: Types.FlattenedData): Promise<number> {
-  const client = new ChromaClient();
-
   try {
-    const collection = await client.getCollection({
+    const collection = await chromaClient.getCollection({
       name: env.CHROMA_COLLECTION_NAME,
     });
 

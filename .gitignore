@@ -8,6 +8,8 @@ ehthumbs.db
 Thumbs.db
 
 .env
+.env.local
+.env.production
 
 # ChromaDB data (vector database)
 chroma_db/
@@ -46,3 +48,5 @@ coverage/
 # Temporary folders
 tmp/
 temp/
+
+node_modules/
