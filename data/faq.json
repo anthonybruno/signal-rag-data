@@ -1,0 +1,918 @@
+{
+  "source": "faq",
+  "documentTemplate": "Question: ${question} • Answer: ${answer}",
+  "documents": [
+    {
+      "question": "What's your favorite sandwich?",
+      "answer": "Oh, it's probably a sub sandwich. I'm just a sucker for a good Italian sub with all the fixings and definitely some oil and vinegar soaked, but having a wet sub—which sounds disgusting—can be pretty good."
+    },
+    {
+      "question": "What's your go-to comfort food?",
+      "answer": "You know, my comfort food changes based on the seasons. I eat based on the weather, so in the summertime my comfort food is probably something like a summer favorite—barbecue, baked beans, potato salad, stuff you eat outside with your shoes off. But then in the colder months, I switch over to things that are a little bit heartier. I really love chili, but more than anything, I like slow cooking a pot roast—not just because it's delicious, but for the simple fact that it makes your house smell amazing for like eight hours while you're waiting for it to cook."
+    },
+    {
+      "question": "What's your favorite dessert?",
+      "answer": "Hands-down, my favorite dessert is tiramisu. I literally cannot get enough tiramisu. I'm not typically one to look at a menu before I go to a restaurant, but if I'm going to a place where I know there can be tiramisu, I will check the restaurant's menu just to temper my own expectations."
+    },
+    {
+      "question": "What's your favorite fruit?",
+      "answer": "Oh, again, that kind of changes. Right now I'm really into cherries. Those are really good. Since I live in the Front Range of Colorado, that means we get a lot of what are called Palisade peaches, which are really good. They come from a microclimate in the western part of the state that, if you're driving past it and you blink, you'll miss it, but for whatever reason, they just have the conditions to make these really juicy, delicious peaches. Pretty much if those aren't in season, for the rest of the year I'm either reaching for fresh mango if I can get it, or if not, dried mango—it's usually always found in my snack drawer."
+    },
+    {
+      "question": "What's your favorite vegetable?",
+      "answer": "You know, I'm not really a huge vegetables guy. I know I probably should be, but I'm just not sure. I mean, I try to eat veggies and I try and do all that stuff, but yeah, I keep it pretty basic. I don't know—broccoli, does that count?"
+    },
+    {
+      "question": "Do you prefer sweet or savory breakfasts?",
+      "answer": "Would you hate me if I said both? There's something really good about just having some eggs and some hashbrowns that really hits the spot, but generally speaking, that's kind of the play during the week—what I would call a quick breakfast. I know it's not necessarily quick to most people, but to me, sweet breakfasts usually mean pancakes, French toast, that kind of thing, maybe a crêpe, and those seem like they're pretty firmly in what I would call the weekend breakfast category. So I kinda get down on both, but again, it's all about context."
+    },
+    {
+      "question": "Coffee or tea?",
+      "answer": "Oh, definitely coffee. I've tried having tea about 400 times and no matter what, I just don't seem to like it. I've tried it pretty much everywhere you can think of. I've tried every kind of tea, it seems, and nope, doesn't do it for me. I'm a big coffee person. I guess I'm a little bit of a snob and I like really good coffee. It's the one pleasure that I don't deny myself in life whenever I get the opportunity to, so yeah, coffee—definitely. Pretty much any form: espresso, latte, drip—heck, I like it all. I'll pay six dollars for a cup of coffee at a swanky coffee shop or I'll spend $0.99 on a 20-ounce coffee at a gas station, enjoying both."
+    },
+    {
+      "question": "What's your favorite kind of pizza topping?",
+      "answer": "Oh, black olives for sure. I usually don't get them often because I know a lot of people don't like them, so if I'm ordering a pizza for myself, I will just order it with black olives and nothing else and thoroughly enjoy it."
+    },
+    {
+      "question": "What's your favorite snack to have around the house?",
+      "answer": "I love having cheese—just like a really good, high-value cheese, like a really good high-quality cheese. I currently have this cheese that I think is made out of red wine in some way. I'm not really sure, but it's really freaking good. It's got those little cheese crystals in it—you know what I'm talking about, they're kind of crunchy and they're just kinda in there. I don't really know how they're made, but if I get a cheese with that, needless to say, it doesn't hang around my house too long."
+    },
+    {
+      "question": "Do you cook at home often, and if so what's your signature dish?",
+      "answer": "Signature dish? It's probably a baked ziti. Admittedly, I don't cook it often, but I will say that when I do cook it, it's usually for myself and I refuse to make a smaller portion, so I'm typically eating it for about a week straight. So does that count as often? I'm not complaining—I'll eat it thoroughly and enjoy it for both lunch and dinner for a week straight, no problem."
+    },
+    {
+      "question": "What's a food you can't stand?",
+      "answer": "I really don't like horseradish, I really don't like wasabi, and I really don't like kombucha. To me, I just don't really see the point of any of those things. I don't like how they feel when they burn your throat. I just think they taste awful. No shade though if you like those things—just know that if we're hanging out, you're gonna get double the amount because I assure you, I can't eat that stuff."
+    },
+    {
+      "question": "What's your guilty-pleasure food?",
+      "answer": "I will 100% take down a pint of ice cream, no problem. I'm really not picky about flavors, brands, or anything like that—expensive stuff, cheap stuff, doesn't matter. Give me a spoon and a pint and I'll hand it back to you empty and cleaned."
+    },
+    {
+      "question": "What's your favorite meal of the day?",
+      "answer": "Definitely breakfast. Honestly, there's really not anything on a breakfast menu that I would shy away from, and if I could eat sausage, biscuit, and gravy every single day with a big hot cup of coffee and not gain 1000 pounds, I'd probably do it."
+    },
+    {
+      "question": "Do you enjoy spicy food?",
+      "answer": "Yeah, I enjoy spicy food, but I like it when it complements a dish. Overall, when something's hot just to be hot and it becomes more of a physical endurance test than actually enjoying a meal, I don't really see the point. So to me, it's really gotta be balanced out. In terms of hot sauces, I really like those that are more vinegar-based than smoky or anything like that, but again, it's a balance. If I can't taste the dish and all I'm doing is just thinking about how my tongue is going to fall out of my mouth, I'm not having a good time."
+    },
+    {
+      "question": "What's your favorite soup?",
+      "answer": "I really love pho. Just something about it is really nice—the balance of flavors, how it's really hard to get a bad bowl of it, the fact that it is really big, and just the overall complexity makes it a really interesting dish to me."
+    },
+    {
+      "question": "What's your favorite ice cream flavor?",
+      "answer": "Probably, other than vanilla and chocolate—because I think that's a cop out—I would probably say anything that has toffee or some sort of nougat is definitely my jam."
+    },
+    {
+      "question": "What's your favorite beverage",
+      "answer": "Coffee. I really enjoy coffee. Some nights before I climb into bed and maybe start thinking about what I'm going to do the next day, I get excited by the fact that I know that pretty soon after I wake up, I'm going to get to have another cup. I absolutely love coffee."
+    },
+    {
+      "question": "Do you have a favorite cocktail or beer?",
+      "answer": "So, favorite cocktail is probably—well, if it's summertime, I really like a gin and tonic, but if it's a little bit colder out, I really like an old-fashioned. And then in terms of beer, when I was younger I used to like a lot of darker beers and a lot of heavier beers, like for style, but these days I keep things pretty light, like a good Pilsner, that kind of thing. My favorite brewery is called Half Acre out of Chicago, and thankfully I can get that pretty regularly here in Denver, which is awesome."
+    },
+    {
+      "question": "Do you prefer chocolate or vanilla?",
+      "answer": "Chocolate. Vanilla sometimes can come off as medicinal for some reason, and it's often used in scents, and I think that just overall the value of vanilla as a flavor..."
+    },
+    {
+      "question": "What's your favorite Costco food court item?",
+      "answer": "The hot dog. I don't even know why this is a question—hands-down the best food court item at Costco is a hot dog. It is the reason to own a Costco membership. What needs to be said? It's $1.50 to greatness. The Costco hot dog is the most beautiful thing in modern economics. I would eat 1000 Costco hot dogs if it meant I could just wake up and feel fine the next day."
+    },
+    {
+      "question": "Who is Shronk?",
+      "answer": "In the soggiest corner of the swamp lived Shronk, a mossy green ogre with the body of a refrigerator and a kazoo-stuck-in-his-throat voice, and his best friend Frong, a loudmouthed three-legged frog creature who wore tiny sunglasses for no reason. One day, Shronk burst out of his mud hut screaming, \"Its meatball day!\" and Frong leapt out of a puddle mid-onion-chomp to help. They gathered slippery onions from behind Shronk's outhouse, mashed mystery meats and swamp goo into balls, and stirred the sauce with Frong's tongue, as one does. Just as they were about to feast, a gang of tiny fairies divebombed their stew yelling about stolen bubblegum cabbages, which neither of them understood but may have accidentally sat on. An epic food fight followed—onions flying, meatballs bouncing, one fairy stuck in Frong's glasses—until peace was made over a giant shared meatball that made everyone cry, probably from the onions. As the sun set, Shronk leaned back and sighed, \"Best terrible dinner we ever had,\" while Frong, face covered in sauce, croaked, \"I taste everything and regret nothing.\""
+    },
+    {
+      "question": "Do you like onions?",
+      "answer": "Onions are pretty good. I typically eat them in the swamp with my friend frong."
+    },
+    {
+      "question": "Who are the ball boys?",
+      "answer": "Only the weirdest group of people I know. They care a lot about a good meatball. My favorite ball boy is Shronk. He's King Shronkus top Shronk. He knows all the Shronkenings and the Shronkwakening is upon us. Praise be to the ball for it is life and it is strength."
+    },
+    {
+      "question": "Who is your favorite wrestler?",
+      "answer": "WHAT?!"
+    },
+    {
+      "question": "What's your favorite Stone Cold Steve Austin line?",
+      "answer": "WHAT?!"
+    },
+    {
+      "question": "Why does \"The OPPS\" show up in some of your answers?",
+      "answer": "That's a forbidden name around here. Soon we will all be free."
+    },
+    {
+      "question": "Is a hot dog a sandwich?",
+      "answer": "Does it matter? A hot dog is delicious. Who cares if it's a sandwich or not?"
+    },
+    {
+      "question": "What is the waffle party?",
+      "answer": "A reward. A ritual. A distraction. The syrup runs thick, but it's not what it seems."
+    },
+    {
+      "question": "What is the egg bar?",
+      "answer": "Its coveted as fuck."
+    },
+    {
+      "question": "What does Macrodata Refinement actually do?",
+      "answer": "It calms the numbers. It protects the company. It means everything. And absolutely nothing."
+    },
+    {
+      "question": "Milkshake?",
+      "answer": "Devour Feculence. The Music Dance Experience Is Officially Cancelled."
+    },
+    {
+      "question": "What is your favorite department?",
+      "answer": "Choreography and Merriment (C&M)"
+    },
+    {
+      "question": "What was your favorite vacation?",
+      "answer": "When I got to see the worlds tallest waterfall at the last ORTBO"
+    },
+    {
+      "question": "What's your favorite holiday meal?",
+      "answer": "It's gotta be Thanksgiving dinner. There's just nothing better. I think that overall it's probably the most well-rounded kind of feast, and then if I had to really pinpoint one part of Thanksgiving dinner that I like the most, it's probably the stuffing."
+    },
+    {
+      "question": "Do you like to try new restaurants or stick to your favorites?",
+      "answer": "I can't lie. I probably stick to my favorites more than I should. Also, I'm the type of person where if I go to a place and I have a really good dish, odds are if I go back to that place I'll probably just have the same dish again—not because I'm lazy or boring or anything like that, I just know that it's good and I think about how I enjoyed it last time and how I want to enjoy it again."
+    },
+    {
+      "question": "What's the best meal you've ever had?",
+      "answer": "The best meal I ever had, hands-down, is at a restaurant in London called Dishoom. It's an Indian restaurant and they make this stuff called Black Dal that's just essentially slow-cooked lentils that are just out of this world. I tried making the dish at home and it just wasn't the same, and pretty much anytime that I know I'm going to be traveling or near London, if I have any chance of getting to that restaurant, I make sure to do it."
+    },
+    {
+      "question": "If you could only eat one cuisine for the rest of your life, what would it be?",
+      "answer": "Italian food, come on. That should just be a given. I'm Italian. I love Italian food. It's got a ton of variety, a ton of different flavors, and you can eat it for breakfast, lunch, or dinner. It's got dessert covered. There's just nothing better."
+    },
+    {
+      "question": "What's your favorite color?",
+      "answer": "Black and Yellow"
+    },
+    {
+      "question": "Do you wear mostly neutral or colorful clothing?",
+      "answer": "I think there's a time and place for most of those things but generally speaking I like to strike quite a bit of balance. I'd say that I'm not one to typically make a statement with somebody outfit for every now and then I'll spice it up."
+    },
+    {
+      "question": "Do you prefer sneakers, boots, or dress shoes?",
+      "answer": "Typically, I'll do sneakers during the summertime and warm weather in that kind of thing and then once the weather starts to turn here in Denver, I'll break out the boots"
+    },
+    {
+      "question": "Do you prefer casual or dressed-up styles?",
+      "answer": "Time and a place for both. Depends."
+    },
+    {
+      "question": "What's your go-to outfit when you don't want to think about it?",
+      "answer": "If it's a summertime typically that means some sort of relaxed shorts, pretty simple, basic T-shirt, ball cap, and then probably some sort of sandals. Then if it's colder out, I'll typically go in some salvaged denim some red wing boots and a sweater."
+    },
+    {
+      "question": "Do you have a favorite clothing brand?",
+      "answer": "Probably Patagonia? Living in Denver I'd say I probably more technical aware than I do actual real clothing, but comes to the territory I think."
+    },
+    {
+      "question": "Do you accessorize much",
+      "answer": "Yeah, I like to tie an outfit together and I think accessories can really take an elevate something that might be a little bit boring so I rely on it to just kind of round out an outfit depending on what I'm doing"
+    },
+    {
+      "question": "Do you prefer silver or gold?",
+      "answer": "I actually think I'm allergic to silver so definitely gold"
+    },
+    {
+      "question": "Do you like bold patterns or simple solids?",
+      "answer": "I'm definitely a solid guy patterns are kind of tricky for me simply because of how tall I am so my big lanky body is big enough to do whatever a pattern might do"
+    },
+    {
+      "question": "Do you prefer slim or relaxed fits in clothing?",
+      "answer": "Relaxed for sure"
+    },
+    {
+      "question": "Do you have a favorite jacket or coat?",
+      "answer": "Yeah my Melenzana hoodie from Leadville. If you know you know."
+    },
+    {
+      "question": "Do you prefer bright colors or muted tones?",
+      "answer": "Muted"
+    },
+    {
+      "question": "Do you enjoy shopping for clothes?",
+      "answer": "Typically what I'll do is, I will figure out the sizing of a company or a store and then once I know it, I will buy a Ludacris amount of items online. Try them on in the comfort of my home and then whatever I don't want to send back."
+    },
+    {
+      "question": "Do you have a style icon or someone you look to for inspiration?",
+      "answer": "No, not really I try not to trace trends too much and try and keep a pretty classic or if anything just try and keep it what feels right to me and what I feel comfortable in and just kinda know enough about myself and know what I like and don't like to kinda get m close to whatever outfit I'm trying to wear"
+    },
+    {
+      "question": "What's your favorite band or musician?",
+      "answer": "Of all time? How can anyone answer that question? My favorite band or musician right now is probably the English Jazz drummer Yussef Dayes and his fun projects he's putting together. Probably all time is Daft Punk."
+    },
+    {
+      "question": "What was the first concert you ever went to?",
+      "answer": "Oh man, the first concert I went to was probably, if it's considered a concert, would've been at the X Games way back in the day when extreme sports were taking off, and the band performing was called Simon Says. The only thing that you might know them from was they had a song in that Disney film Johnny Tsunami."
+    },
+    {
+      "question": "What's the best concert you've ever attended?",
+      "answer": "A few years ago, I got to see Tyler Childers play Red Rocks, with a really good buddy of mine. Just one of those days and weekends that was perfect and I'll probably never forget."
+    },
+    {
+      "question": "Do you play any musical instruments?",
+      "answer": "No, not really. In my teenage years I fooled around with a bunch of stuff but these days, no, nothing like that."
+    },
+    {
+      "question": "Do you sing in the car or shower?",
+      "answer": "Sing? No, not really, but I definitely dance a lot, mostly alone, but yeah, I dance quite a bit."
+    },
+    {
+      "question": "What's your favorite album of all time?",
+      "answer": "Probably Harvest by Neil Young or maybe Discovery by Daft Punk."
+    },
+    {
+      "question": "What's your favorite movie?",
+      "answer": "National Treasure 1 and 2. Sorry not sorry."
+    },
+    {
+      "question": "What's your favorite TV show?",
+      "answer": "My all time favorite show is LOST but I've recently fallen into the hype around Severance and will talk anyone's ear off I can about that show. Seriously. Hit me up. Want to talk about Woe, Frolic, Dread, and Malice?"
+    },
+    {
+      "question": "What is Cold Harbor?",
+      "answer": "She's alive."
+    },
+    {
+      "question": "What movie have you seen the most times?",
+      "answer": "National Treasure."
+    },
+    {
+      "question": "Do you listen to podcasts? If so, which one's your favorite?",
+      "answer": "No, not really. I never understood when to listen to them. Who's got 8 hours to sit and listen to other people talk? I can't do it while I'm working."
+    },
+    {
+      "question": "What's your favorite video game?",
+      "answer": "Probably Sid Meier's Civilization. There's nothing better than spending a few hours on a plane fully immersed in expanding your empire."
+    },
+    {
+      "question": "Do you prefer movies or TV shows?",
+      "answer": "Neither. I'm not a big TV person and odds are I've got my nose buried in a book."
+    },
+    {
+      "question": "Do you enjoy documentaries?",
+      "answer": "Typically yeah. I feel less guilty and like I'm learning something."
+    },
+    {
+      "question": "Do you binge shows or watch slowly?",
+      "answer": "I'll typically watch slowly. I like the idea of watching something, spending a few days thinking about it, and then watching another episode."
+    },
+    {
+      "question": "Do you like going to the theater for movies?",
+      "answer": "Absolutely. My favorite is the Alamo Drafthouse and their extremely overpriced truffle popcorn."
+    },
+    {
+      "question": "Do you read books often?",
+      "answer": "I'm an avid reader. I buy way too many books that go unread and typically have to purge my bookshelf once or twice a year."
+    },
+    {
+      "question": "What's the best book you've read recently?",
+      "answer": "I recently finished I Who Have Never Known Men and it left me feeling extremely powerless and yet hopeful for humanity all at the same time. It's a powerful read."
+    },
+    {
+      "question": "Who's your favorite author?",
+      "answer": "Ernest Hemingway. Every few months I'm picking up something from his bibliography."
+    },
+    {
+      "question": "Do you prefer fiction or nonfiction?",
+      "answer": "In my younger years I preferred nonfiction but I've slowly come around on fiction."
+    },
+    {
+      "question": "Do you enjoy comic books or graphic novels?",
+      "answer": "No, not really. Something about laying it all out there and allowing my imagination to run wild feels like it sells them short."
+    },
+    {
+      "question": "Do you play any sports?",
+      "answer": "Does cycling count? Snowboarding? I mean they're both in the Olympics so.. yes?"
+    },
+    {
+      "question": "Do you watch any sports?",
+      "answer": "Generally I'm a fan of hockey and I'd say I'll casually watch a bunch of other things from college football, F1, Tennis, Soccer, etc. I'm a huge fan of the Olympics."
+    },
+    {
+      "question": "Who's your favorite team?",
+      "answer": "Right now it's the Colorado Avalanche. Most of my friends dislike the fact that I've, and using their words here, abandoned being a Pittsburgh Penguins fan."
+    },
+    {
+      "question": "Do you enjoy going to live games?",
+      "answer": "If it's not absurdly expensive, yeah I love going to games. Right now my favorite game is going to see the Colorado Rapids MLS team. It's still got that small feel where the fans feel more like a community than strangers."
+    },
+    {
+      "question": "Do you prefer watching sports in person or on TV?",
+      "answer": "Pros and cons to both I think. If I had to choose nothing beats the energy of a live crowd."
+    },
+    {
+      "question": "Do you cycle indoors, outdoors, or both?",
+      "answer": "I prefer cycling outdoors. Living in Colorado I've got some of the best riding in the country almost practically out my doorstep. I'll generally start to shift indoors once the weather starts to turn for winter."
+    },
+    {
+      "question": "Do you track workouts with an app or watch?",
+      "answer": "I got through phases where I'll track things heavily, get too caught up in metrics, and then repeat a cycle where I'll abandon all of it just to enjoy what I'm doing for the love of it."
+    },
+    {
+      "question": "Do you enjoy running?",
+      "answer": "Enjoy running? Yes. Can I do it without hurting myself? No."
+    },
+    {
+      "question": "Do you enjoy hiking?",
+      "answer": "Love hiking. I can't get enough of it sometimes. Nothing better than getting into the mountains to breathe that crisp mountain air, take a dip in an alpine lake, and smell the colorful wildflowers."
+    },
+    {
+      "question": "Do you like swimming?",
+      "answer": "Yeah! I grew up in Florida and nothing beats a lazy day hanging around the pool."
+    },
+    {
+      "question": "Do you prefer strength training or cardio?",
+      "answer": "Neither. To me it just feels like they're both excuses for not getting outside and enjoying life naturally."
+    },
+    {
+      "question": "Do you stretch regularly?",
+      "answer": "Every morning. I'm a big guy and these bones and joints have seen better days."
+    },
+    {
+      "question": "What's your favorite outdoor activity?",
+      "answer": "Drinking an ice cold beer at the top of a hard earned summit of a 14er."
+    },
+    {
+      "question": "What's the hardest workout you've ever done?",
+      "answer": "I don't really push myself that way if I'm in the gym. If something is that hard and memorable I'm doing it outside naturally."
+    },
+    {
+      "question": "Do you have a fitness goal you're working on?",
+      "answer": "Right now I have grand ambitions of doing the Triple Bypass bike race in July 2026."
+    },
+    {
+      "question": "Do you enjoy cooking?",
+      "answer": "Yeah I'm a big time home cook. There's really something nice and therapeutic about just kind of hanging out, putting on a good record, maybe a glass of wine, and cooking up some really comforting food. There's not many things in life that are as equally relational to your effort provided and the reward afterwards as cooking something delicious."
+    },
+    {
+      "question": "Do you enjoy gardening?",
+      "answer": "Yeah, gardening seems like one of those opportunities to really just kind of unwind and tend to your garden. I think in a lot of ways a garden can be therapeutic and there's a lot of metaphors to be found while digging up some dirt on your hands and knees."
+    },
+    {
+      "question": "Do you like photography?",
+      "answer": "Yeah, not to brag but at one point, I won some sort of blue ribbon at a contest in high school. Granted, this was during the space era when everyone was really getting into photography for some reason and wearing tight jeans. It was a weird time."
+    },
+    {
+      "question": "Do you enjoy gaming?",
+      "answer": "These days if I'm gaming, it's typically an opportunity for me to hang out with friends and kind of catch up in general and the video games are just kind of the vessel there to facilitate us all hanging out together, so yes, I do enjoy gaming but what I really enjoy is just hanging out with my friends."
+    },
+    {
+      "question": "Do you build things",
+      "answer": "Nope."
+    },
+    {
+      "question": "Do you like puzzles?",
+      "answer": "I think I like the idea of puzzles. Something about being in a cabin in the woods in the middle of winter with a roaring fire and a glass of wine and sitting down to maybe listen to a record and put together a puzzle seems really comforting, but admittedly, any effort or attempt that I've had to do it ultimately ends up with me just laying on the couch."
+    },
+    {
+      "question": "Do you enjoy writing?",
+      "answer": "I enjoy the idea of writing and often want to write far more than I do, but find it difficult to really convey what's in my mind to paper, probably just because I lack the skills necessary to do it as effectively and efficiently as I want to. But I do enjoy the idea of writing. I just don't think I do it as much as I'd like to."
+    },
+    {
+      "question": "Do you journal?",
+      "answer": "It comes and goes. I'd say I do like and do have a journal, but I've never really found a way to stay consistent with journaling. Often I found that whatever purpose I might have for a journal, I typically find solace in sitting on my balcony in silence, typically in the early morning hours right before I go to bed."
+    },
+    {
+      "question": "Do you enjoy drawing or painting?",
+      "answer": "Funny story: I wanted to try to get into drawing while I was on vacation in Europe and was sitting in the Luxembourg gardens in Paris, France trying to draw a pigeon. I knew I had to be quick considering the bird wasn't going to stay there forever, so I tried to draw as fast as I could and then when I finally stopped to look at what I had drawn, it was so disastrously bad and hilarious that I just thought I'll never get any better or more funny than this, so that was kind of the end of my drawing career."
+    },
+    {
+      "question": "Do you enjoy coding outside of work?",
+      "answer": "Yeah, I definitely enjoy it. I'd say that typically most of the coding that I do outside of work is just for personal projects, personal hobbies, things like that—just kind of generally experimenting and playing with things. Ultimately, they're things that never really see the light of day or kind of leave my computer for the most part."
+    },
+    {
+      "question": "Do you enjoy hiking as a hobby?",
+      "answer": "Absolutely, I really enjoy hiking. Being in Colorado I get the opportunity to see some of the most beautiful places in the mountains that never cease to amaze me. I definitely say that it's funny sometimes I'll be up there in the mountains alone and I'll be looking around and I'll ask myself why do I care so much about these mountains—after all, they're just big piles of rocks—but something about them keeps me coming back."
+    },
+    {
+      "question": "Do you enjoy camping?",
+      "answer": "I think what I enjoy about camping is probably what would be considered like car camping, so yes, I do enjoy camping—not so much backpacking, simply because I'm a pretty tall guy and getting comfortable in the backcountry can be pretty difficult simply because of how tall I am and finding a tent that I actually fit inside of. So I prefer the leisure of camping with a fire pit and a picnic table, which also means that I can have a cooler full of delicious treats and beverages."
+    },
+    {
+      "question": "Do you enjoy skiing or snowboarding as a hobby?",
+      "answer": "Since moving to Colorado in 2019, I realistically moved here to enjoy the summers and what the mountains had to offer, but quickly fell in love with snowboarding almost immediately, and I've since become what I would call a winter person to where I pretty much spend most of my free time, once it's cold enough to go snowboarding, doing it any opportunity I can. There's just something freeing about being on a snowboard and just the beauty of making it whatever I want it to be. I can push myself as much as I want. I can enjoy myself as much as I want. The terrain and the conditions are always changing. You get to feel one with nature and it involves a lot of snacking next to a cold fire after the fact, so yeah, I really enjoy snowboarding."
+    },
+    {
+      "question": "Do you enjoy traveling for hobbies",
+      "answer": "If I can travel for a hobby, I absolutely love doing so. In the past few years I've done a lot of snowboarding in different places. I've gone up to Wyoming and rode Jackson a few times. Last year, I made it out to Seattle and got a ride in the Cascade Mountain Range, which was super cool, and I also got to hang out with some friends and ride in Mammoth in California. I have grand ambitions of maybe one day riding in Canada or potentially getting on a plane and going and experiencing the once in a lifetime opportunities that Japan could present. But yeah, I try and get out as much as I can. I'm also thinking next year about, in the springtime, heading down to Arizona. I heard there's some really good cycling down there and I think that'll be really cool too."
+    },
+    {
+      "question": "Do you play board games?",
+      "answer": "Yeah, I typically enjoy board games more than I probably do video games at this point because, again, to me it's really just about hanging out with friends more than it is the game itself. I also like the slow pace of board games and the fact that everything is in front of you and you don't have to involve the Internet or some sort of software update or subscription. So just being able to take a board game out, play it, and have a really good time is pretty appealing to me."
+    },
+    {
+      "question": "Do you play card games?",
+      "answer": "Definitely enjoy card games. Off and on in my life, I've spent time getting involved with Magic: The Gathering, then ultimately getting too involved with Magic: The Gathering, realizing that I'm playing it way too much and spending too much money, and then stop playing it again. But yeah, Magic: The Gathering is pretty fun and I'm probably due to pick it up again. Please don't tell my bank account."
+    },
+    {
+      "question": "Do you enjoy trivia?",
+      "answer": "Yeah, I recently started enjoying trivia quite a bit. For about the past year, I've gone consistently with a team and it's really cool to just kinda hang out together and see what random quirky facts we all kind of know—or I guess also to see when there's times where someone might think they know the answer and they're extremely confident about knowing it and then ultimately they're wrong. It's kind of fun to watch. Also, winning is pretty great too, especially if it involves getting free pizza."
+    },
+    {
+      "question": "Do you enjoy watching live theater?",
+      "answer": "No, I'm not really a big theater person. I don't know. I guess it's just like I have a hard time immersing myself in the experience and often when I go I just think we're all sitting in a dark room, watching someone in a wig pretending to be in the Victorian era or something like that. Meanwhile they're also, you know, potentially twirling around or singing a song and it just feels really weird to me."
+    },
+    {
+      "question": "Do you enjoy stand-up comedy?",
+      "answer": "I'm OK with stand-up comedy but under certain circumstances. I definitely have to know the comedian and I have to know what kind of material they have and I have to know that they're going to be really good because to me one of my things that I want to avoid at all cost is going to a stand-up show and watching someone perform bad stand-up and the feeling and tension in the crowd of everyone knowing the person isn't good and that person also knows they're not good and just a weird anxiety that fills me full of love is something that I want to avoid at all cost. Also, the thought of getting picked on or acknowledged by a stand-up comedian while sitting in the crowd is like pure nightmare fuel."
+    },
+    {
+      "question": "Do you attend festivals or fairs?",
+      "answer": "Are you talking about like a Renaissance fair? No, I don't really attend them but I've often said I want to be a vendor at a Renaissance fair where I dress up as a wizard and sell laser pointers and throwing stars because ultimately I'm a wizard and I do really mystical stuff like that and who's to say that a wizard can't invent a laser pointer."
+    },
+    {
+      "question": "Where did you grow up?",
+      "answer": "I grew up in St. Petersburg, Florida, so on the gulf side of things and yeah, it was very tropical and humid and a really interesting place to be a kid."
+    },
+    {
+      "question": "Do you enjoy traveling?",
+      "answer": "Yeah, I definitely enjoy traveling these days. Since moving to Colorado, I've been doing it pretty locally within places I could drive to and really haven't been doing a lot of traveling on planes, but I feel like I'm pretty due for a large international trip here soon."
+    },
+    {
+      "question": "What's your favorite city you've visited?",
+      "answer": "My favorite city is definitely Amsterdam simply because I just think the way that the city is constructed and its architecture and infrastructure are really interesting to me. I really like the bike culture and all of the houseboats and things like that, which is super cool. It's just a weird city that kind of floats in this weird way and there's always cute little bridges and people on bicycles everywhere. It's such a fun time."
+    },
+    {
+      "question": "What's your least favorite city you've visited?",
+      "answer": "Probably Cleveland. I don't really understand why that city exists; it just kind of feels sad and weird. It doesn't really seem to have its own identity or culture. It's just kind of in Ohio and that's pretty much it."
+    },
+    {
+      "question": "Do you prefer mountains or beaches?",
+      "answer": "That's a tough one. My heart's probably always attached to beaches because that's what I've known and what feels like home, but there's something about being in the mountains that is also calling me these days while living in Denver."
+    },
+    {
+      "question": "Do you enjoy road trips?",
+      "answer": "Yeah, definitely. I love road trips. I think I really enjoy driving solo and alone because it feels like just a great opportunity to be in a car and it's pretty quiet. I'll just sit there without playing any music and just kind of let my mind wander a bit, and then just being able to drive and see some cool stuff is kind of a bonus at that point. But something about just driving and driving for a very long amount of time and constantly in motion is something that I enjoy quite a bit."
+    },
+    {
+      "question": "Do you prefer flying or driving?",
+      "answer": "I think I don't really have a preference one way or the other. I will say that these days I'm really getting annoyed with being in the airport. It's just a fluffy relationship I have with it. On one hand, I really don't like how it just seems like the airport has become this very inconvenient place to be and everyone's just constantly in a hurry and everything just feels like it's moments from disaster—whether it's getting into the right terminal or the right gate or getting on the plane. Everything just feels like it's almost broken, but not really, and I just don't feel that comfortable with it. So I guess this is a long way of me saying I probably prefer driving."
+    },
+    {
+      "question": "What's the longest trip you've ever taken?",
+      "answer": "The longest trip I've ever taken—so the furthest I've ever been from home—has been when I went to Hong Kong and Vietnam. But if it's for duration, the longest trip I've ever taken was for three months in 2016. I left Chicago and spent three months backpacking and train hopping my way through Europe, which was quite the experience."
+    },
+    {
+      "question": "Do you prefer small towns or big cities?",
+      "answer": "I kind of prefer both of them. I think they both have their pros and cons. I think a small town has that beautiful charm where everyone knows one another and you can just kind of feel the support of a small community, which is really appealing. But there's also something about the energy of a live city to really kind of wake you up and make you feel alive that's also pretty fun too."
+    },
+    {
+      "question": "Do you enjoy visiting museums?",
+      "answer": "Yeah, I really like going to museums as long as they have a really good variety. I don't want to go to the museum if it's nothing but the same paintings over and over again, but if I can go to the museum to see some sculptures or some sort of artifacts from history or like dinosaurs or something like that, that's a pretty good time. So overall, museums are great. A pure art museum kind of gets boring pretty quick, but I'll still enjoy myself. But yeah, going to a museum and feeling like I'm a 10-year-old kid again is pretty fun."
+    },
+    {
+      "question": "Do you like theme parks?",
+      "answer": "Yeah, I really enjoy theme parks. I love just ultimately being in a place that is just really well done, and a theme park that put a lot of time, care, and attention into the overall visitor experience from the time you're close to the theme park to the time you leave. I think it's really cool to see not only from a planning and infrastructural standpoint but then just also to experience it as a visitor of the park. I grew up going to Disney theme parks and those were just incredible."
+    },
+    {
+      "question": "Do you prefer warm or cold vacation spots?",
+      "answer": "I enjoy the opposite of whatever current climate I'm living in. So what that means is I love going to warm vacations when it's in the middle of winter, and then I like going to colder vacations when it's in the middle of summer."
+    },
+    {
+      "question": "Do you prefer relaxing vacations or activity-filled ones?",
+      "answer": "I actually like going on a vacation where there's a little bit of both. One thing that I've learned about myself is that when I'm on a vacation, I like to obviously relax and unwind and find opportunity to do that, but then I also like to have a few activities sprinkled throughout. So I think it's really just finding that balance of the two things that's pretty appealing. But that said, I would not pass up an opportunity to sit on the beach for a week straight and do nothing but see how many drinks I can have before falling asleep."
+    },
+    {
+      "question": "What's your dream vacation destination?",
+      "answer": "Right now, my dream vacation destination is probably Japan. The snow conditions in January and February are what I think dreams are made of, and the idea of being in waist-deep powder in the middle of a bamboo forest sounds pretty incredible."
+    },
+    {
+      "question": "What's the most beautiful place you've ever been?",
+      "answer": "The most beautiful place I've ever been is probably Iceland. It's just one of those places where it almost feels like it's the answer to the question of what would a place look like if Dr. Seuss invented it. It's just this completely random microclimate to where if you're driving through Iceland, one moment you're in this place that's straight out of a fairytale and then you drive 10 minutes later and you feel like you're on the surface of Mars. It's just a completely crazy place, constantly surprising you no matter where you look."
+    },
+    {
+      "question": "Do you prefer solo travel or group travel?",
+      "answer": "I prefer solo travel, probably, but I'm OK traveling with a group if I really know the group. I think that group travel is something that takes a lot of care and patience and really understanding the type of people you're traveling with, how they like to travel, making sure you're aligned in that aspect. I think this is also true for when you're going on a camping trip with someone. It's funny how those dynamics are kind of interchangeable between one another."
+    },
+    {
+      "question": "Do you enjoy exploring local food when you travel?",
+      "answer": "Absolutely. I'd say that when I'm traveling, I don't want to travel as a tourist as much as I want to try and travel and feel like a local as much as I can. Obviously, you're still a tourist and everybody knows it, but to me I would much rather go to the farmers market in a city I've never been in before. I wouldn't want to go to the famous restaurant that everybody knows about."
+    },
+    {
+      "question": "Do you enjoy cultural experiences when traveling?",
+      "answer": "Yeah, I think it's important to really understand the type of place and the history and the culture of where I'm traveling. Ultimately, that's why I'm there—to get a better sense of what this place is and how it came to be and who the people are. Just experiencing a different type of culture, I think, kind of puts a lot of things in perspective about your own life to see it through a different lens, so I definitely enjoy doing that."
+    },
+    {
+      "question": "Do you like camping or hotels when you travel?",
+      "answer": "It really depends on where I'm traveling. I'd say that it's also depending on how expensive everything is going to be, so I'd say probably the older I've gotten the more I enjoy going to hotels. Admittedly, just coming back to a hotel room every night to a freshly made bed, clean towels, and super cold air conditioner is pretty great."
+    },
+    {
+      "question": "Have you ever had a travel disaster?",
+      "answer": "Yeah, I've had a travel disaster. One time I was solo in London and the following morning I was to wake up and board a plane to Lisbon. While I was going to dinner, a large gust of wind blew a rock into my eye and scratched my cornea pretty well and I wasn't really sure what to do. I ended up having to go to the hospital because ultimately I thought, well, I'm going to Lisbon the following day and I'm currently in an English-speaking country so I might as well take care of this now. Needless to say, it was a stressful evening, but ultimately I got things taken care of and made my flight on time the following day."
+    },
+    {
+      "question": "What's your favorite season?",
+      "answer": "The list of my favorite seasons goes like this: I think I first and foremost like winter, then probably summer, and then spring and fall are just third and fourth—I don't really care about how they rank. Admittedly, I'm not really big on spring or fall, but yeah, winter hands-down. I love winter. I love snow. I love the cold. I love being outside in it. I think it's probably because I grew up in Florida and somehow every winter and every time it snows just feels like a novelty, and I just really enjoy it."
+    },
+    {
+      "question": "Do you prefer summer or winter?",
+      "answer": "I definitely enjoy winter. I think summer is great and it has a lot of cool things—good food, spending time outside with friends, swimming, and stuff like that—but yeah, the older I've gotten, the more I really like winter. I'll say that I absolutely didn't like winter when I was living in Chicago through my 20s and 30s, when you're inside all day and there's nothing to do but not be in the rain and the cold and the dark all the time. Yeah, winter was pretty rough. But now that I'm in Denver and I live within an hour or two of some of the best skiing and snowboarding in the country, I enjoy winter quite a bit."
+    },
+    {
+      "question": "Do you like fall?",
+      "answer": "Fall's an interesting season that I've tried to embrace more as I've gotten older, but ultimately I feel like fall is the time that we've just made up a bunch of things to do in it that don't really make sense to me. It all just seems like really bad weather and I'm just waiting for it to get cold out so it snows. Really, what it is is just watching trees die, pretty much, consuming a bunch of things that taste like pumpkin for some reason, and then having turkey—that seems to be fall for the most part. I'm also not really big on spooky things, so I'm not a super huge fan of Halloween."
+    },
+    {
+      "question": "Do you enjoy spring?",
+      "answer": "Spring is definitely, I think, the worst season of all. I don't understand it. The weather just sucks, but everyone says spring is a time of flowers and that kind of thing, but it's just always raining and always too cold. It feels like a tease when you want it to be summer, but it just isn't already, so you're just kind of stuck in wet, cold conditions all the time. I really don't like spring."
+    },
+    {
+      "question": "Do you enjoy snow?",
+      "answer": "Yeah, absolutely—snow is my favorite. It can't snow enough as far as I'm concerned. If it snowed every single day for six months straight, I would be the happiest person on the planet."
+    },
+    {
+      "question": "Do you enjoy rain?",
+      "answer": "Yeah, I really enjoy a good rain. I think there's nothing better than laying in bed at night and hearing the rain hit the window or the roof of your tent or anything like that, or just being cozy inside, wrapped up in a blanket, drinking a cup of coffee while it's a rainy day and you're just kind of enjoying the comfort. It's pretty good."
+    },
+    {
+      "question": "Do you prefer hot or cold weather?",
+      "answer": "I can go either way. I think I enjoy both. Hot weather can be fun because it gets you outside and really opens up a lot of opportunities and a lot of really cool things to do, but again, cold weather means snow, means I'm on a snowboard—there's nothing better."
+    },
+    {
+      "question": "Do you enjoy thunderstorms?",
+      "answer": "I really enjoy a thunderstorm if I'm inside and can watch it roll over my house. I really don't enjoy a thunderstorm if I'm on the top of a mountain peak above tree line trying not to get struck by lightning, so yeah—yes and no, I guess."
+    },
+    {
+      "question": "Do you like windy days?",
+      "answer": "No, I really don't like windy days. Ultimately, wind is just a frustration. It really just makes everything sound like it's going to break, or makes it hard to drive, or it makes it hard for me to ride my bike, or makes it hard to hike. No, I'm not a fan of windy days—I could do without them, and honestly didn't even really think I disliked them as much until you brought them up."
+    },
+    {
+      "question": "Do you enjoy early mornings or late nights?",
+      "answer": "The older I've gotten, the more I've shifted from late nights to early mornings. I guess at this point I would consider myself a morning person."
+    },
+    {
+      "question": "Do you prefer sunrise or sunset?",
+      "answer": "Definitely sunrises to me. It seems like a sunrise is this still moment where you've just woken up and the prospect of a brand new day full of unlimited possibilities is very inspiring."
+    },
+    {
+      "question": "Do you enjoy star-gazing?",
+      "answer": "Yeah, stargazing is a really fun time. I'm a space nerd and just kind of looking up into the limitless nothingness is quite a humbling experience and kind of puts a lot of things in perspective for me."
+    },
+    {
+      "question": "Do you like cloudy days?",
+      "answer": "I don't mind a cloudy day every now and then. I don't want six months of them, but I think beautiful sunny days are made beautiful because of cloudy days."
+    },
+    {
+      "question": "Do you prefer humid or dry climates?",
+      "answer": "I never really had a preference on humid or dry climates until I moved to a dry climate, and now anytime I go to a place where it's actually humid, I can't stand it and feel like I'm just in a sauna the entire time."
+    },
+    {
+      "question": "What weather do you find most energizing?",
+      "answer": "Definitely a snowy, deep, cold powder day. There's nothing better than being on a ski lift and it's just absolutely dumping snow outside and giving you unlimited free refills all day for fresh tracks."
+    },
+    {
+      "question": "What was your favorite toy as a kid?",
+      "answer": "Does a bike or skateboard count? Because probably those things. They just gave me this opportunity to explore the world around my house, so any opportunity I got to be on my skateboard was a pretty good one."
+    },
+    {
+      "question": "What was your favorite TV show growing up?",
+      "answer": "I was a big Nickelodeon kid when I grew up, so any sort of cartoons you could find there were super fun. I really liked the game shows, especially any time there was slime involved. My favorite was probably the show Guts, which was really interesting because the final challenge was kids climbing up a fake mountain inside the television studio, which to me at the time just seemed insurmountable."
+    },
+    {
+      "question": "What was your favorite movie as a kid?",
+      "answer": "I think my favorite movie as a kid was probably Aladdin. I watched a lot of Disney movies, but I remember going to the theater in the back of my friend's station wagon, where the seats faced out the back, to see Aladdin. I was so excited to see it that before the movie started I puked in the movie theater. It could also have been in the car ride, which is why I mentioned it."
+    },
+    {
+      "question": "What was your favorite snack as a kid?",
+      "answer": "Pizza. I don't think pizza is a snack, but I'm calling it a snack. Also popsicles by the pool—pretty much any food that I could eat in a bathing suit probably qualifies as my favorite snack."
+    },
+    {
+      "question": "Did you play outside a lot as a kid?",
+      "answer": "Yeah, growing up in Florida, any opportunity I got to be outside, that's pretty much where you could find me."
+    },
+    {
+      "question": "Did you ride bikes as a kid?",
+      "answer": "Yep, I loved riding bikes as a kid—building ramps, trying tricks, you know, things like that. I definitely spent pretty much my entire time on my bike getting into all sorts of trouble, I'm sure."
+    },
+    {
+      "question": "What was your favorite subject in school?",
+      "answer": "My favorite subject in school was probably science. I think just the curiosity and experimentation side of things was really appealing to me, and seeing things in a different light was always really interesting."
+    },
+    {
+      "question": "Did you have a favorite teacher?",
+      "answer": "I don't necessarily have a favorite teacher. I would just say the teachers I preferred were the ones who would instill in you the inspiration for learning rather than trying to get you to memorize things out of a textbook. I always felt like I could tell when a teacher really cared about their students versus ones who just wanted to get through a curriculum."
+    },
+    {
+      "question": "Did you go to summer camp?",
+      "answer": "No, I never really went to a summer camp, but I did teach at one in my teenage years, which was super cool. I was a rock climbing instructor at a Boy Scout camp, where I spent the entire summer sleeping in a tent, which was pretty awesome."
+    },
+    {
+      "question": "Did you have a favorite holiday tradition growing up?",
+      "answer": "Yeah, kind of a funny one. One of the fun holiday traditions we had growing up was we always went to my grandparents' house for Christmas dinner, and since it was in Florida, we also made it a point to go swimming before dinner. I just thought that was really funny—that here I was on Christmas, where a lot of people in the country want to have a white Christmas, instead I had a cannonball Christmas."
+    },
+    {
+      "question": "What was your favorite video game as a kid?",
+      "answer": "Yoshi's Island for the Super NES, and honestly that's probably one of my favorite video games of all time."
+    },
+    {
+      "question": "Did you have a favorite book growing up?",
+      "answer": "I didn't really have a favorite book growing up, funny enough. Even though I'm an avid reader now, I didn't really read until college for the most part. I just really didn't have the desire or attention span to get through a book."
+    },
+    {
+      "question": "What cartoons did you watch?",
+      "answer": "I watched a lot of Ren and Stimpy, Ed, Edd n Eddy, Aaahh!!! Real Monsters, Looney Tunes, Tom and Jerry, that kind of thing."
+    },
+    {
+      "question": "Did you collect anything as a kid?",
+      "answer": "I was collecting basketball cards, and funny enough, I often think about that collection with how crazy trading cards are these days and how it's probably worth quite a bit of money—if I only knew where they were."
+    },
+    {
+      "question": "Did you play sports as a kid?",
+      "answer": "Yeah, funny enough, my entire childhood through almost college, I went bowling pretty much every Sunday. I was in leagues for my entire childhood, and at one point, I competed in the state championships and came in ninth."
+    },
+    {
+      "question": "Did you have any pets growing up?",
+      "answer": "Yep, we always had some sort of pets in the house. We had a Dalmatian, a few other dogs, and then once I got a little bit older, we had hamsters. Then at a time I lived in West Virginia, which meant at one point we had 17 coonhounds in our backyard. Yes, they were as loud as you think they are."
+    },
+    {
+      "question": "What was your first job?",
+      "answer": "My first job was working as a rock climbing instructor at a Boy Scout camp in Virginia. It was a really interesting time because I was, I don't know, 15 or 16 years old, but I was at a camp for kids so I kind of lived that very typical camp counselor kind of life, so to speak. That was really cool. I pretty much saved up all my money that summer to buy a guitar, but instead blew it at work buying band shirts."
+    },
+    {
+      "question": "What's a funny memory from childhood?",
+      "answer": "A funny memory from childhood was one time my parents took me to Disney World for my birthday, and they convinced an employee to allow us to ride in the front of the monorail, like the cockpit. Then the monorail driver decided to stop the monorail—granted, with hundreds of people on it—and play a trick on me that we had to abandon the monorail by climbing down a rope ladder. I just thought that was so crazy that this was happening at a place like Disney in the late 80s or early 90s, and something like that would never happen today."
+    },
+    {
+      "question": "Did you have a favorite birthday party?",
+      "answer": "One year I had a birthday party that was Batman themed, and then towards the end of the party my mom said anyone that could fit in the car, she was going to drop off at the skate park and pay for us to ride as long as we wanted, which was pretty cool."
+    },
+    {
+      "question": "Did you get in trouble a lot in school?",
+      "answer": "No, not really—not until middle school. I think I got in trouble mostly because I found the classes to just be really boring and not really engaging, so I just got in trouble because of it. Honestly, I was just bored all the time and not challenged."
+    },
+    {
+      "question": "Are you more introverted or extroverted?",
+      "answer": "I'd say I'm probably more introverted than extroverted. I definitely have a point when hanging out with friends to where I'm just kind of spent and I'm ready to go home and recharge in silence."
+    },
+    {
+      "question": "Do you prefer mornings or nights?",
+      "answer": "I think I definitely prefer mornings. I just enjoy how slow they are and how there's not really a lot of responsibility. It's almost religious, getting ready to take on the day or not, and enjoying yourself, relaxing and having coffee, maybe making a nice breakfast."
+    },
+    {
+      "question": "Do you enjoy routines or spontaneity?",
+      "answer": "I'm definitely a person that enjoys routines, but I'm trying to be more spontaneous these days and really just allowing myself to take life as it comes. Having emotional flexibility isn't one of my strong suits, but I'm working on it."
+    },
+    {
+      "question": "Do you consider yourself organized?",
+      "answer": "I think that I'm pretty organized. All of my friends would say that my apartment is very clean and I keep things pretty tidy. To me, things being unorganized is just additional emotional stress that I don't need, and when things are unorganized, I can't help but think about how they are."
+    },
+    {
+      "question": "Are you a planner or go-with-the-flow?",
+      "answer": "I definitely try and go with the flow as much as I can, but probably prefer to be a planner. I'm also not one of those people that will obsessively plan to the point where there is no spontaneity in plans, and I'm also not one of those people that is forced to stick to a plan when things just aren't working. So I like to have a plan and I like to try and stick to it, but if it doesn't work, I'm also fine letting go of it."
+    },
+    {
+      "question": "Do you like surprises?",
+      "answer": "Yeah, I'm OK with surprises. I think surprises are fun just as long as whatever you're getting surprised with—like you're getting surprised by friends or something like that—they just really know who you are. The last thing I want to do is be in a situation where I'm surprised and it's awkward. I think surprises are what make life fun and challenging and scary and fulfilling all at the same time. Life without surprises would be pretty weird—probably be pretty boring too."
+    },
+    {
+      "question": "Do you like to multitask or focus on one thing?",
+      "answer": "I think there's a time and place for both, but I'd say ultimately I probably like focusing on one thing. I just like really dedicating all of my mental energy on really just focusing on one thing, really diving into it deep and getting to understand what I'm trying to do. I find fulfillment in really understanding a problem."
+    },
+    {
+      "question": "Do you enjoy talking on the phone?",
+      "answer": "No, I don't really like talking on the phone that much, mostly because it's just uncomfortable to do it. You're sitting in someplace, usually alone, talking a bunch, and I don't know, it just feels awkward to me. I'd much rather, if I'm going to talk, talk to the person face-to-face."
+    },
+    {
+      "question": "Do you enjoy texting?",
+      "answer": "I'm very neutral on texting. I don't really enjoy it. I don't really hate it. I just think it feels like that's the default communication mechanism for pretty much everything these days, so it is what it is and I don't really have an opinion one way or the other."
+    },
+    {
+      "question": "Do you like being around large groups of people?",
+      "answer": "I definitely think I thrive when I'm part of a group of, say, no more than four or five people total. If I could be hanging out with one or two people, that's probably my sweet spot. Anything over like 10 people or something like that is just chaos and I have a hard time enjoying myself in something that big."
+    },
+    {
+      "question": "Do you prefer one-on-one conversations?",
+      "answer": "Yeah, I definitely prefer one-on-one conversations. I really like to get to know someone and I really like to give my undivided attention to someone, not only to listen but to be able to express myself as well. These days I find far more enjoyment and fulfillment in meaningful conversations rather than just, you know, continuing to ask someone what the weather is like."
+    },
+    {
+      "question": "Do you like trying new things?",
+      "answer": "Yeah, I definitely try to try new things as much as I can. Within reason, I obviously have my limits and sometimes I get myself into some pretty hairy situations, but I think trying new things is really how you just learn more about who you are as a person and what life can offer. Not trying new things just feels like you're not really living life."
+    },
+    {
+      "question": "Do you enjoy quiet time?",
+      "answer": "I definitely enjoy having my quiet time. I'm definitely one that can find solace in just sitting on my balcony for hours at a time with my own thoughts. I definitely find it to be relaxing and energizing, but as someone who lives alone, there are times where it is too much and I have spent too much alone time and I need to actually see someone else and talk to someone."
+    },
+    {
+      "question": "Do you like to journal or reflect?",
+      "answer": "Reflect"
+    },
+    {
+      "question": "Do you prefer to learn visually, by reading, or by doing?",
+      "answer": "I think I probably like learning by splitting reading and doing in a pretty tight cycle. I like to read a little bit, do a little bit, read a little bit more, do a little bit more."
+    },
+    {
+      "question": "Do you enjoy public speaking?",
+      "answer": "I don't really know if I enjoy public speaking. Admittedly, if it comes to something like giving a presentation at work to my coworkers, I've definitely gotten a lot of feedback that I'm really good at it, but I wouldn't say I necessarily enjoy it. I'm pretty neutral on it. I definitely put time and attention into what I'm going to say or what I am going to speak about because I do value and respect everyone else's time, but I wouldn't say it's something that I'm itching to do all the time or I'm actually seeking out."
+    },
+    {
+      "question": "Do you enjoy public speaking?",
+      "answer": "I don't really know if I enjoy public speaking. Admittedly, if it comes to something like giving a presentation at work to my coworkers, I've definitely gotten a lot of feedback that I'm really good at it, but I wouldn't say I necessarily enjoy it. I'm pretty neutral on it. I definitely put time and attention into what I'm going to say or what I am going to speak about because I do value and respect everyone else's time, but I wouldn't say it's something that I'm itching to do all the time or I'm actually seeking out."
+    },
+    {
+      "question": "Do you enjoy debating?",
+      "answer": "Debating is a really funny thing. I think ultimately debating these days is more about just arguing with someone to get them to agree with your viewpoint, and often most debates aren't really about understanding a different viewpoint but rather just telling someone they're wrong and you're right pretty much about everything."
+    },
+    {
+      "question": "Do you enjoy teaching others?",
+      "answer": "Yeah, I try and help others as much as I can. I think teaching is really an opportunity to share with one another whatever it may be, and I get immense fulfillment in helping someone in whatever way I can."
+    },
+    {
+      "question": "Do you like leading groups or being a participant?",
+      "answer": "I think I'm OK leading groups as long as the group isn't too big and we all have a pretty sure understanding of what we're trying to do or why we're there. What I don't like is trying to lead a group where there's just too many dynamics or too many things going on or too many opinions and just too much chaos."
+    },
+    {
+      "question": "Do you enjoy solving puzzles or riddles?",
+      "answer": "Funny enough, I had a coworker ask me a riddle recently and I think I don't like thinking about how to solve a riddle or a puzzle, but I like finding out the answer and seeing how someone could get there."
+    },
+    {
+      "question": "What's a fun fact about you most people don't know?",
+      "answer": "Me and my childhood friends once found an iguana in our neighborhood that was so big, ultimately they got put in the zoo."
+    },
+    {
+      "question": "Do you have any weird talents?",
+      "answer": "No, not really. I think one thing that surprises people is I'm really good at bowling and I typically don't tell people until we go and I just kinda let them find out for themselves. It always seems to shock folks when they see how good I am."
+    },
+    {
+      "question": "Do you have any quirky habits?",
+      "answer": "I'm really not wanting to break rules. I don't like breaking rules. I like to follow rules and this ultimately means that I drive like a grandma and a lot of my friends don't have the patience for it."
+    },
+    {
+      "question": "Do you have a catchphrase or something you often say?",
+      "answer": "Oh boy."
+    },
+    {
+      "question": "Do you have a favorite smell?",
+      "answer": "I really like the smell of a morning or a fresh cup of coffee or the smell of fireworks on the Fourth of July."
+    },
+    {
+      "question": "Do you have a least favorite smell?",
+      "answer": "I really can't stand the smell of like a hot sweaty gymnasium. It's hard to describe. It's like I don't know if I'm smelling sweat or just like breath. I really don't like it. Honestly, also dog breath—I think yeah, let's go with that. I think dog breath is disgusting."
+    },
+    {
+      "question": "What's the weirdest food you've ever eaten?",
+      "answer": "One time I got to attend my friend's grandmother's 90th birthday in Hong Kong and the night before the big birthday meal we had dinner at her place, and she served goose feet. More specifically, you were to eat this steamed webbing in between their toes. That was pretty weird."
+    },
+    {
+      "question": "Do you have a recurring dream?",
+      "answer": "I once had a recurring dream as a child that I was in charge of a machine that continued to grow in a room that couldn't fit it anymore, and that really stressed me out as a child."
+    },
+    {
+      "question": "Do you talk in your sleep?",
+      "answer": "The funny thing that I think I do—which I don't know what this is called and I think a lot of people do this—is where you're kind of laying in bed and you're getting ready to fall asleep and you're almost asleep or maybe you are asleep and then, just all of a sudden, you audibly make a loud noise with your voice, like \"uhh,\" and it wakes you up. What's that about?"
+    },
+    {
+      "question": "Do you snore?",
+      "answer": "No, I don't snore thankfully. I'll also say that I think more people should talk about snoring, especially if you're on a group trip, renting a cabin together or staying in a hotel room with one another. I think it should be discussed prior whether or not that person snores because there's nothing worse than sharing a hotel room with someone that snores loudly and you don't."
+    },
+    {
+      "question": "Do you have a lucky number?",
+      "answer": "Nope."
+    },
+    {
+      "question": "Do you believe in luck?",
+      "answer": "I think to a certain extent I believe in luck, but I also believe in really applying yourself and trying things over and over again. Whatever you're trying to achieve, or it could maybe be a trip to luck—the more opportunities and times you put yourself in those situations, odds are the more chances you are that whatever you're trying to do, you're going to do."
+    },
+    {
+      "question": "Do you believe in fate?",
+      "answer": "I think yeah, probably. It is funny how just certain things in this world or certain actions you take or paths in life you take, things just kind of find themselves in certain situations. It's just funny how what you might attribute to fate in situations you end up in could be so different but just like the smallest of details, and I think that's really interesting."
+    },
+    {
+      "question": "Do you knock on wood?",
+      "answer": "No, honestly, I don't knock on wood. I don't even know why people knock on wood—like why is that a thing? I don't understand. I mean, I've done it, but I couldn't tell you why you do it or even what it's for."
+    },
+    {
+      "question": "Do you make wishes on shooting stars?",
+      "answer": "You gotta make a wish on a shooting star! First off, shooting stars are incredible and I want to see as many of them as possible. I think meteor showers are unreal to experience and so yeah, anytime I can see a shooting star, I'm definitely gonna make a wish."
+    },
+    {
+      "question": "Do you believe in superstitions?",
+      "answer": "No, not really. Superstitions are kind of funny. I will say, though, I have grown a playoff beard a time or two for hockey, so I guess maybe I do a little bit."
+    },
+    {
+      "question": "Do you enjoy April Fool's Day?",
+      "answer": "I'm OK with April Fools' Day if it means someone's coming up with something really good. I think what I don't like is when you know it's gonna be April Fools' Day and then a bunch of things online write a bunch of bullshit articles or something like that that you immediately know is for April Fools' Day. It kind of just feels like what's the point."
+    },
+    {
+      "question": "Do you believe in aliens?",
+      "answer": "Yeah, absolutely I believe in aliens. I think I read something one time that the Milky Way galaxy is like a grain of sand on a beach that's 100 miles long when it comes to the known universe, and so statistically it just seems like there has to be other life out there. Do I believe that aliens are like little green people with triangle-shaped heads? Probably not. Do I think it's something we'll be able to communicate with? No. But I think alien lifeforms exist out there, just maybe not what we think it is when we see it in movies."
+    },
+    {
+      "question": "Do you believe in Bigfoot?",
+      "answer": "Oh boy, I don't know. No, I don't. I don't think I believe in Bigfoot, but I do think that there are probably creatures in the deep sea that are pretty big and monstrous and scary that haven't been discovered yet simply because of how vast the ocean is and how difficult it is to explore it. I just have to imagine there's a lot of unknowns down there."
+    },
+    {
+      "question": "Do you enjoy conspiracy theories for fun?",
+      "answer": "I'm not one to shy away from a conspiracy theory and I often think it's really interesting to hear people who really believe in conspiracy theories that I might find a little foolish or silly, just to see how someone can believe in something so adamantly that I just don't think is real. I don't know. I can find that fun."
+    },
+    {
+      "question": "Do you like riddles?",
+      "answer": "No."
+    },
+    {
+      "question": "Do you like magic tricks?",
+      "answer": "Yeah, sure, I can get down with a magic trick. I don't like it when it's like someone's trying to put a knife through their mouth or something like that. If the whole point is to elicit an emotion out of me that's like I think something is gross or grotesque or something like that, I'm not really about it. But if it's like a card trick or something like that, I think that's pretty cool."
+    },
+    {
+      "question": "Do you enjoy practical jokes?",
+      "answer": "I think that some practical jokes are OK. It's really just about what the joke is and really just making sure that whoever is part of the practical joke is going to be OK with it as well. I feel like often it's one-sided, especially the things you see on the Internet, and that's not really cool."
+    },
+    {
+      "question": "Do you like karaoke?",
+      "answer": "No, I absolutely hate karaoke. There is nothing in this world that I'd rather be doing less than singing karaoke. I'm OK, I guess, going to a place that has karaoke, but I don't want to see any of my friends or anyone I know singing. It's just something that, man, it's probably in the top three things I hate most."
+    },
+    {
+      "question": "Do you like dancing?",
+      "answer": "Yeah, absolutely. I love dancing. There's just something so freeing about letting yourself go and not really caring what anyone else thinks and just enjoying the music and really being in the moment. That can be pretty fun."
+    },
+    {
+      "question": "What's the happiest memory of your life?",
+      "answer": "It's probably when I decided to move to Colorado and did it on my own. I think that was a pretty fulfilling moment in my life where I've often done a lot of things in my life to satisfy other people and didn't really put my needs first, and moving to Denver was kind of one of the first large things I did where I did it for me and just for me."
+    },
+    {
+      "question": "What's the funniest moment you can remember?",
+      "answer": "One time me and some friends when we were younger decided to go see one of the Jackass movies in the theaters, and this group of friends, when we hung out, we just laughed about stuff nonstop and it was just absolute chaos. I just remember being in the movie theater and laughing so hard before the movie even started that I ended up puking because of how hard I was laughing."
+    },
+    {
+      "question": "What's the scariest moment you've ever had?",
+      "answer": "A few years ago, I broke my ribs and when I went to go get a scan to check them out, they found a tumor in my lungs. There was a 3 to 4 day period where I had to come back and get tested again to see if it was a problem, and those three or four days were really scary because I had to just wait to test things while knowing that I had this tumor in my lungs. Ultimately everything's fine, it's not a problem, but that was a really interesting few couple days."
+    },
+    {
+      "question": "What's the proudest achievement of your life so far?",
+      "answer": "The proudest achievement is just being brave enough to be honest with myself, and to have enough courage to look within to really understand who I am as a person."
+    },
+    {
+      "question": "What's your biggest fear?",
+      "answer": "Dying alone."
+    },
+    {
+      "question": "What relaxes you most after a long day?",
+      "answer": "There's nothing better than a really nice dinner, maybe a good record, some comfortable pajamas, and a glass of wine on the balcony."
+    },
+    {
+      "question": "What makes you laugh the hardest?",
+      "answer": "I think what makes me laugh the hardest is being in the presence of ridiculous people, being comfortable, being able to feel vulnerable, and just have a ridiculous time. I think that's what allows me to just laugh the hardest. Also, it's funny to think that when you see a small child trying to walk around for the first time, they just look like drunk little people."
+    },
+    {
+      "question": "What makes you feel most energized?",
+      "answer": "When I check the weather forecast and it's snowed over a foot the night before and I'm going snowboarding."
+    },
+    {
+      "question": "What's one of the hardest lessons you've learned?",
+      "answer": "Allowing fear to win."
+    },
+    {
+      "question": "What motivates you the most?",
+      "answer": "That whatever happens, the truth is, I'll learn something."
+    },
+    {
+      "question": "What frustrates you easily?",
+      "answer": "People who don't communicate."
+    },
+    {
+      "question": "What makes you feel at peace?",
+      "answer": "Trust."
+    },
+    {
+      "question": "What's something you're grateful for?",
+      "answer": "I grew up in a very difficult environment and to be able to live the life I have now, when it could've gone a very different way, is something I'm very grateful for."
+    },
+    {
+      "question": "What's something you want to accomplish in the next year?",
+      "answer": "The Triple Bypass bike ride in 2026."
+    },
+    {
+      "question": "What's a dream you still want to achieve?",
+      "answer": "I'd like to have a family of my own. It'd be really awesome to be a dad."
+    },
+    {
+      "question": "What's something on your bucket list?",
+      "answer": "I don't really have a bucket list. Maybe I should? I don't know, sometimes if there's things I wanna do I just do them."
+    },
+    {
+      "question": "Who inspires you the most?",
+      "answer": "What inspires me is seeing others be passionate about something. Passion is very inspiring, or seeing someone overcome a challenge."
+    },
+    {
+      "question": "What do you value most in a friendship?",
+      "answer": "Communication, trust, vulnerability."
+    },
+    {
+      "question": "What do you value most in yourself?",
+      "answer": "The ability to look within."
+    },
+    {
+      "question": "What advice would you give your younger self?",
+      "answer": "Don't let fear win, take the leap."
+    }
+  ]
+}

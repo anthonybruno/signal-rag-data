@@ -1,0 +1,12 @@
+{
+  "source": "resume",
+  "documentTemplate": "${role} at ${company} from ${dates} and did the following: ${description}",
+  "documents": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Kin Workplace Software",
+      "dates": "2025 to present",
+      "description": "Led the development of a new AI-powered productivity tool that helps users track their time and stay on top of their work."
+    }
+  ]
+}

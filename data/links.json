@@ -1,0 +1,11 @@
+{
+  "source": "links",
+  "documentTemplate": "${label}: ${url}",
+  "documents": [
+    { "label": "Portfolio website", "url": "https://abruno.net" },
+    { "label": "Blog website", "url": "https://eastsycamore.com" },
+    { "label": "GitHub profile", "url": "https://github.com/anthonybruno" },
+    { "label": "Email contact", "url": "mailto:anthony@abruno.net" },
+    { "label": "LinkedIn profile", "url": "https://linkedin.com/in/brunotony" }
+  ]
+}

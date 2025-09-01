@@ -1,0 +1,63 @@
+{
+  "name": "signal-rag-data",
+  "version": "0.1.0",
+  "description": "The Signal RAG server uses ChromaDB with OpenAI embeddings to provide contextual memory, returning relevant chunks of project and career history for grounding model responses.",
+  "keywords": [
+    "portfolio",
+    "rag",
+    "retrieval",
+    "chromadb",
+    "embeddings",
+    "openai",
+    "semantic-search",
+    "nodejs",
+    "signal"
+  ],
+  "author": "Anthony Bruno",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anthonybruno/signal-rag-data.git"
+  },
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "setup": "tsx src/index.ts",
+    "lint": "eslint src/**/*.ts ",
+    "lint:fix": "eslint src/**/*.ts  --fix",
+    "format": "prettier --write src/**/*.ts ",
+    "format:check": "prettier --check src/**/*.ts "
+  },
+  "dependencies": {
+    "@chroma-core/openai": "^0.1.7",
+    "abruno-dev-config": "^1.0.5",
+    "chromadb": "^3.0.14",
+    "dotenv": "^17.2.1",
+    "winston": "^3.17.0",
+    "zod": "^3.25.42"
+  },
+  "devDependencies": {
+    "@commitlint/config-conventional": "^19.8.1",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^11.0.3",
+    "@types/node": "^22.15.29",
+    "commitlint": "^19.8.1",
+    "eslint": "^9.32.0",
+    "eslint-plugin-node": "^11.1.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.1.5",
+    "prettier": "^3.0.0",
+    "semantic-release": "^24.2.7",
+    "tsx": "^4.20.3",
+    "typescript": "^5.9.2"
+  },
+  "lint-staged": {
+    "*.{ts,tsx,js,mjs,cjs}": [
+      "eslint --fix",
+      "prettier --write"
+    ],
+    "*.{json,md,yml,yaml,toml}": [
+      "prettier --write"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+app = "signal-rag-process-data"
+primary_region = "dfw"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  CHROMA_HOST = "signal-rag.fly.dev"
+  CHROMA_PORT = "443"
+
+[[vm]]
+  cpu_kind = "shared"
+  cpus = 1
+  memory_mb = 512
+
+[processes]
+  app = "npm run setup"
+
+[scale]
+  min_machines = 1
+  max_machines = 1

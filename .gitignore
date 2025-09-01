@@ -1,0 +1,48 @@
+# Top-level ignores
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+.env
+
+# ChromaDB data (vector database)
+chroma_db/
+*.db
+*.sqlite
+*.sqlite3
+
+# Embedding cache files
+embeddings_cache/
+*.embeddings
+
+# Docker
+.dockerignore
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Coverage directory
+coverage/
+*.lcov
+
+# Optional npm cache
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Temporary folders
+tmp/
+temp/
