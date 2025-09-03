@@ -12,8 +12,17 @@ const env = getEnv();
 const DATA_DIR = 'data';
 const chromaClient = new ChromaClient({
   host: env.CHROMA_HOST,
-  port: parseInt(env.CHROMA_PORT, 10),
+  port: env.CHROMA_PORT,
 });
+
+async function checkChroma(): Promise<void> {
+  try {
+    await chromaClient.heartbeat();
+  } catch (_error) {
+    logger.error('ChromaDB not accessible');
+    process.exit(1);
+  }
+}
 
 /**
  * Flattens document data using a template for ChromaDB
@@ -78,6 +87,19 @@ function loadAllData(): Types.FlattenedData {
   }
 }
 
+async function deletePreexistingCollection(): Promise<void> {
+  try {
+    await chromaClient.deleteCollection({
+      name: env.CHROMA_COLLECTION_NAME,
+    });
+    logger.info(
+      `Deleted preexisting collection: ${env.CHROMA_COLLECTION_NAME}`,
+    );
+  } catch (_error) {
+    logger.info('No preexisting collection found, skipping deletion');
+  }
+}
+
 /**
  * Initializes a new ChromaDB collection with OpenAI embeddings
  */
@@ -86,11 +108,6 @@ async function initializeChromaCollection(): Promise<void> {
   console.log('Heartbeat:', heartbeat);
 
   try {
-    await chromaClient.deleteCollection({
-      name: env.CHROMA_COLLECTION_NAME,
-    });
-    logger.info(`Deleted collection: ${env.CHROMA_COLLECTION_NAME}`);
-
     await chromaClient.createCollection({
       name: env.CHROMA_COLLECTION_NAME,
       embeddingFunction: new OpenAIEmbeddingFunction({
@@ -134,13 +151,18 @@ async function addDataToChroma(data: Types.FlattenedData): Promise<number> {
  */
 export async function createCollection() {
   try {
-    logger.info('Loading data...');
+    await checkChroma();
+
+    logger.info('Loading data');
     const allData = loadAllData();
 
-    logger.info('Creating ChromaDB collection...');
+    logger.info('Searching for preexisting collection');
+    await deletePreexistingCollection();
+
+    logger.info('Creating ChromaDB collection');
     await initializeChromaCollection();
 
-    logger.info('Adding data to collection...');
+    logger.info('Adding data to collection');
     const count = await addDataToChroma(allData);
 
     logger.info(`Collection has ${count} items`);
