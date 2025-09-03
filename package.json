@@ -1,6 +1,6 @@
 {
   "name": "signal-rag-data",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "The Signal RAG server uses ChromaDB with OpenAI embeddings to provide contextual memory, returning relevant chunks of project and career history for grounding model responses.",
   "keywords": [
     "portfolio",
