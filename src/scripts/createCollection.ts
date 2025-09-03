@@ -17,7 +17,8 @@ const chromaClient = new ChromaClient({
 
 async function checkChroma(): Promise<void> {
   try {
-    await chromaClient.heartbeat();
+    const heartbeat = await chromaClient.heartbeat();
+    logger.info('ChromaDB accessible', heartbeat);
   } catch (_error) {
     logger.error('ChromaDB not accessible');
     process.exit(1);
@@ -104,9 +105,6 @@ async function deletePreexistingCollection(): Promise<void> {
  * Initializes a new ChromaDB collection with OpenAI embeddings
  */
 async function initializeChromaCollection(): Promise<void> {
-  const heartbeat = await chromaClient.heartbeat();
-  console.log('Heartbeat:', heartbeat);
-
   try {
     await chromaClient.createCollection({
       name: env.CHROMA_COLLECTION_NAME,
