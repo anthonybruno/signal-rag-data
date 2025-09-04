@@ -1,0 +1,116 @@
+{
+  "source": "faq",
+  "documentTemplate": "Question: ${question} • Answer: ${answer}",
+  "documents": [
+    {
+      "category": "Management & Leadership",
+      "question": "What's your management style?",
+      "answer": "I believe in servant leadership with a focus on enabling teams to do their best work. I prioritize clear communication, psychological safety, and removing obstacles rather than micromanaging. I'm hands-on when needed but prefer to coach and mentor rather than direct. I value transparency, regular feedback loops, and creating space for team members to grow and take ownership of their work."
+    },
+    {
+      "category": "Management & Leadership",
+      "question": "How do you approach technical decisions?",
+      "answer": "I follow a collaborative, evidence-based approach. I gather input from the team, consider multiple perspectives, and make decisions based on data when possible. I'm not afraid to make tough calls, but I always explain the reasoning and trade-offs involved. I believe in 'disagree and commit'—once a decision is made, we all move forward together."
+    },
+    {
+      "category": "Management & Leadership",
+      "question": "What do you look for in team members?",
+      "answer": "I value curiosity, ownership, and communication skills. Technical skills can be learned, but I look for people who ask good questions, take initiative, and can explain complex ideas clearly. I appreciate team members who think about the broader impact of their work and are willing to mentor others."
+    },
+    {
+      "category": "Management & Leadership",
+      "question": "How do you handle conflict or difficult situations?",
+      "answer": "I address issues directly but with empathy. I focus on understanding different perspectives, finding common ground, and working toward solutions that benefit the team and project. I believe in having difficult conversations early rather than letting problems fester."
+    },
+    {
+      "category": "Career & Background",
+      "question": "Why transition from individual contributor to management?",
+      "answer": "I found that I was most fulfilled when helping others grow and succeed. I enjoyed mentoring, architectural discussions, and thinking about team dynamics. The transition felt natural as I wanted to have broader impact beyond just the code I could write myself."
+    },
+    {
+      "category": "Career & Background",
+      "question": "What drives your interest in AI and developer tools?",
+      "answer": "I'm fascinated by how AI can augment human creativity and productivity. I see it as a way to reduce cognitive overhead and let developers focus on higher-level problem solving. I believe the best AI tools are those that feel invisible—they just make your existing workflow better."
+    },
+    {
+      "category": "Career & Background",
+      "question": "Why build this chatbot?",
+      "answer": "I wanted to create a more personal, contextual way to share my experience and insights. Traditional resumes and LinkedIn profiles are static and don't capture the nuance of someone's thinking or approach. This chatbot lets me have more dynamic conversations about my work, values, and how I approach problems."
+    },
+    {
+      "category": "Career & Background",
+      "question": "What's your approach to learning new technologies?",
+      "answer": "I believe in learning by doing and staying pragmatic. I focus on understanding the underlying principles rather than just syntax. I prefer to build small projects to explore new technologies, then gradually incorporate them into real work. I also learn a lot from teaching others."
+    },
+    {
+      "category": "Technical Philosophy",
+      "question": "How do you approach technical debt?",
+      "answer": "I believe technical debt is inevitable but manageable. I prioritize paying it down when it starts to slow development velocity or create risk. I'm pragmatic about it—sometimes you need to ship quickly, but you should have a plan to address debt before it becomes unmanageable."
+    },
+    {
+      "category": "Technical Philosophy",
+      "question": "What's your philosophy on testing?",
+      "answer": "I believe in testing that gives you confidence to ship. This means different approaches for different contexts—unit tests for business logic, integration tests for critical paths, and manual testing for UX flows. I value tests that are maintainable and actually catch real issues."
+    },
+    {
+      "category": "Technical Philosophy",
+      "question": "How do you think about performance?",
+      "answer": "Performance is a feature, not an afterthought. I believe in measuring first, then optimizing based on real bottlenecks. I focus on user-perceived performance and making sure the most critical paths are fast. I also believe in progressive enhancement and graceful degradation."
+    },
+    {
+      "category": "Technical Philosophy",
+      "question": "What's your approach to accessibility?",
+      "answer": "Accessibility is a fundamental requirement, not a nice-to-have. I believe in building it in from the start rather than retrofitting. I focus on semantic HTML, keyboard navigation, and screen reader compatibility. I also believe in testing with real users who rely on assistive technologies."
+    },
+    {
+      "category": "Work Style & Preferences",
+      "question": "How do you prefer to work with product and design teams?",
+      "answer": "I believe in early and frequent collaboration. I like to be involved in product discussions from the beginning to understand the full context and constraints. I value designers who think about implementation feasibility and product managers who understand technical trade-offs."
+    },
+    {
+      "category": "Work Style & Preferences",
+      "question": "What's your communication style?",
+      "answer": "I prefer clear, direct communication with context. I try to explain the 'why' behind decisions and provide enough detail for people to understand the reasoning. I'm comfortable with both written and verbal communication, and I believe in over-communicating rather than under-communicating."
+    },
+    {
+      "category": "Work Style & Preferences",
+      "question": "How do you handle ambiguity or unclear requirements?",
+      "answer": "I ask clarifying questions and propose solutions to help define the problem space. I'm comfortable making reasonable assumptions and iterating based on feedback. I believe in building small, getting feedback, and then scaling up rather than trying to get everything perfect upfront."
+    },
+    {
+      "category": "Work Style & Preferences",
+      "question": "What motivates you in your work?",
+      "answer": "I'm motivated by solving real problems that make people's lives better. I enjoy the challenge of balancing technical excellence with business needs. I'm also motivated by helping others grow and succeed, and by building systems that scale well."
+    },
+    {
+      "category": "Personal & Professional Development",
+      "question": "How do you stay current with technology trends?",
+      "answer": "I follow a mix of technical blogs, conference talks, and hands-on experimentation. I believe in learning from multiple sources and forming my own opinions rather than just following hype. I also learn a lot from my team members and from trying new technologies in side projects."
+    },
+    {
+      "category": "Personal & Professional Development",
+      "question": "Are you open to new opportunities?",
+      "answer": "Yes, I'm open to new opportunities. I'm always looking for new challenges and ways to grow."
+    },
+    {
+      "category": "Personal & Professional Development",
+      "question": "What's your approach to work-life balance?",
+      "answer": "I believe in sustainable pace and setting clear boundaries. I'm not a fan of hero culture or working excessive hours. I believe in being present when I'm working and fully disconnected when I'm not. I also believe in taking breaks to recharge and maintain creativity."
+    },
+    {
+      "category": "Personal & Professional Development",
+      "question": "How do you handle stress or high-pressure situations?",
+      "answer": "I focus on what I can control and break large problems into smaller, manageable pieces. I believe in clear communication about risks and trade-offs. I also believe in asking for help when needed and not trying to solve everything alone."
+    },
+    {
+      "category": "Personal & Professional Development",
+      "question": "What's your philosophy on mentorship and giving back?",
+      "answer": "I believe in paying forward the mentorship I've received. I enjoy helping others grow and succeed, whether through formal mentoring relationships or informal coaching. I also believe in contributing to the broader tech community through speaking, writing, and open source work."
+    },
+    {
+      "category": "Personal & Professional Development",
+      "question": "Who are some of your clients?",
+      "answer": "Google, Meta, Tlon Corporation, Sitka Gear, Away Travel, Heinz, Levis, Gusto"
+    }
+  ]
+}

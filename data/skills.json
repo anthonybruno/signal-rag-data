@@ -1,0 +1,114 @@
+{
+  "source": "skills",
+  "documentTemplate": "${category}: ${subcategory} • ${items}",
+  "documents": [
+    {
+      "category": "Leadership & Management",
+      "subcategory": "Engineering Management",
+      "items": [
+        "Team Leadership",
+        "Technical Leadership",
+        "Mentorship & Coaching",
+        "Cross-functional Collaboration",
+        "Stakeholder Communication",
+        "Roadmap Planning"
+      ]
+    },
+    {
+      "category": "Frontend Development",
+      "subcategory": "Core Frameworks & Libraries",
+      "items": [
+        "React (Hooks, Context, Performance Optimization)",
+        "Next.js (Server-side Rendering, Static Generation)",
+        "Vue.js (Vue 2 & 3, Composition API, Vuex)",
+        "Astro"
+      ]
+    },
+    {
+      "category": "Frontend Development",
+      "subcategory": "Languages & Standards",
+      "items": [
+        "JavaScript (ES6+)",
+        "TypeScript (Typing, Generics, Advanced Patterns)",
+        "HTML5",
+        "CSS3 (Flexbox, Grid, Custom Properties)",
+        "Accessibility (WCAG 2.1, ARIA)"
+      ]
+    },
+    {
+      "category": "Frontend Development",
+      "subcategory": "Tooling & Ecosystem",
+      "items": [
+        "Webpack",
+        "Vite",
+        "Babel",
+        "Storybook",
+        "Design Systems",
+        "Responsive Design"
+      ]
+    },
+    {
+      "category": "Testing & Quality",
+      "subcategory": "Testing Tools & Practices",
+      "items": [
+        "Jest",
+        "React Testing Library",
+        "Cypress",
+        "Unit Testing",
+        "Integration Testing",
+        "End-to-End Testing"
+      ]
+    },
+    {
+      "category": "Backend & Infrastructure",
+      "subcategory": "Languages & Frameworks",
+      "items": ["Node.js", "Express", "REST APIs", "GraphQL", "tRPC"]
+    },
+    {
+      "category": "Backend & Infrastructure",
+      "subcategory": "Databases & Storage",
+      "items": ["PostgreSQL", "MongoDB", "Redis", "ChromaDB"]
+    },
+    {
+      "category": "Backend & Infrastructure",
+      "subcategory": "DevOps & Hosting",
+      "items": [
+        "Vercel",
+        "Fly.io",
+        "CI/CD Pipelines",
+        "GitHub Actions",
+        "Docker"
+      ]
+    },
+    {
+      "category": "AI & Modern Technologies",
+      "subcategory": "AI & LLM Integration",
+      "items": [
+        "OpenAI API",
+        "Anthropic Claude",
+        "RAG (Retrieval-Augmented Generation)",
+        "Prompt Engineering",
+        "OpenRouter",
+        "Vector databases",
+        "Embeddings",
+        "ChromaDB",
+        "MCP (Model Context Protocol)"
+      ]
+    },
+    {
+      "category": "AI & Modern Technologies",
+      "subcategory": "AI-Assisted Development",
+      "items": ["GitHub Copilot", "Cursor AI IDE", "Custom AI Tools"]
+    },
+    {
+      "category": "General Development",
+      "subcategory": "Core Practices",
+      "items": [
+        "Agile / Iterative Development",
+        "Code Reviews",
+        "Documentation",
+        "Collaboration Tools (Slack, Notion, Figma)"
+      ]
+    }
+  ]
+}

@@ -2,10 +2,58 @@
   "source": "links",
   "documentTemplate": "${label}: ${url}",
   "documents": [
+    { "label": "Email contact", "url": "anthonybruno@gmail.com" },
     { "label": "Portfolio website", "url": "https://abruno.net" },
+    {
+      "label": "Kin or KinHR case studies",
+      "url": "https://abruno.net/project/kin-human-resources"
+    },
+    {
+      "label": "Meta or Facebook F8 Conference case studies",
+      "url": "https://abruno.net/project/meta-f8-conference"
+    },
     { "label": "Blog website", "url": "https://eastsycamore.com" },
-    { "label": "GitHub profile", "url": "https://github.com/anthonybruno" },
-    { "label": "Email contact", "url": "mailto:anthony@abruno.net" },
-    { "label": "LinkedIn profile", "url": "https://linkedin.com/in/brunotony" }
+    { "label": "Github profile", "url": "https://github.com/anthonybruno" },
+    { "label": "LinkedIn profile", "url": "https://linkedin.com/in/brunotony" },
+    {
+      "label": "Bluesky profile",
+      "url": "https://bsky.app/profile/meatballs.bsky.social"
+    },
+    {
+      "label": "Instagram profile",
+      "url": "https://www.instagram.com/anthonybruno"
+    },
+    {
+      "label": "Signal Github repo",
+      "url": "https://github.com/anthonybruno/signal"
+    },
+    {
+      "label": "Signal MCP Github repo",
+      "url": "https://github.com/anthonybruno/signal-mcp"
+    },
+    {
+      "label": "Signal Frontend Github repo",
+      "url": "https://github.com/anthonybruno/signal-frontend"
+    },
+    {
+      "label": "Signal Backend Github repo",
+      "url": "https://github.com/anthonybruno/signal-backend"
+    },
+    {
+      "label": "Dev Config Github repo",
+      "url": "https://github.com/anthonybruno/dev-config"
+    },
+    {
+      "label": "Dev Config npm",
+      "url": "https://www.npmjs.com/package/abruno-dev-config"
+    },
+    {
+      "label": "Personal site or portfolio Github repo",
+      "url": "https://github.com/anthonybruno/abruno.net"
+    },
+    {
+      "label": "Copy Mail Extension Github repo",
+      "url": "https://github.com/anthonybruno/copy-mail-extension"
+    }
   ]
 }

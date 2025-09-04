@@ -1,0 +1,21 @@
+{
+  "source": "highlights",
+  "documentTemplate": "Accomplishment: ${answer}",
+  "documents": [
+    {
+      "accomplishment": "In 2024, https://abruno.net was featured on DarkModeDesign and DeadSimpleSites website showcase"
+    },
+    {
+      "accomplishment": "In 2023 Copy Email Extension https://github.com/anthonybruno/copy-mail-extension was featured on the Chrome Web Store"
+    },
+    {
+      "accomplishment": "In 2015 I was nominated for a Webby Award for client work showcasing creative frontend development and UX"
+    },
+    {
+      "accomplishment": "In 2016 I contributed to the Nelson Cash growth during its recognition on the Inc. 5000 Fastest Growing Companies list"
+    },
+    {
+      "accomplishment": "In 2018 Mark Zuckerberg reviewed my work and said it 'looked good'"
+    }
+  ]
+}

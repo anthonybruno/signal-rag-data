@@ -1,0 +1,13 @@
+{
+  "source": "contact",
+  "documentTemplate": "Contact information • ${label} • ${value}",
+  "documents": [
+    { "label": "Email", "value": "anthonybruno@gmail.com" },
+    { "label": "Portfolio", "value": "https://abruno.net" },
+    { "label": "Github profile", "value": "https://github.com/anthonybruno" },
+    {
+      "label": "LinkedIn profile",
+      "value": "https://linkedin.com/in/brunotony"
+    }
+  ]
+}

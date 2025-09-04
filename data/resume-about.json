@@ -1,0 +1,18 @@
+{
+  "source": "resume",
+  "documentTemplate": "Testimonial from ${title}: ${description}",
+  "documents": [
+    {
+      "title": "About",
+      "description": "I am an engineering manager with over 15 years of experience creating scalable, accessible, and thoughtfully designed web platforms. I focus on building resilient systems, fostering healthy engineering cultures, and working with cross-functional teams to deliver well-scoped, maintainable solutions. Currently, I manage a cross-functional engineering team at Kin focused on scalable systems and team workflows. I work closely with product and design partners to guide architectural decisions, shape technical direction, and improve the workflows that support day-to-day development. AI tooling is a regular part of my engineering practice — from prototyping and debugging to scaffolding new ideas faster and with less friction. Outside of my core responsibilities, I actively explore AI-augmented developer experiences through custom tools and experiments. These include intelligent assistants, retrieval-augmented workflows, and automated systems that support better engineering decision-making. I'm motivated by aligned teams, clear problem spaces, and the opportunity to iterate toward better outcomes. I find the most fulfillment in environments where technical curiosity, open communication, and shared ownership are core to how work gets done."
+    },
+    {
+      "title": "Joshua Silas Liston - Director of User Experience @ Liquid Web said",
+      "description": "Anthony and I worked together at Nelson Cash (and on personal things past that), and he’s easily one of the best front-end engineers I’ve had the chance to work with. He’s been a standard I compare others to ever since. He’s someone who naturally helps shape the direction of a project either as a core contributor or leader. He brings ideas, gives great input, and makes things better just by being involved. He's got a sharp eye for engineering and is quick to understand a problem and just as quick to come up with a smart, practical solution. Whether it’s figuring out how to build something efficiently or making sure the design is implemented down to the last pixel, he’s always on point. If you want it done right he is your guy."
+    },
+    {
+      "title": "Bennett Foster - Software Engineer @ Redsail said",
+      "description": "I’ve worked with Anthony in various capacities over the years—most recently with him as my manager, and before that as a close collaborator. No matter the setup, he’s always been someone I’ve looked to for clarity when things feel messy, whether that’s technical direction, team process, or just getting unstuck. He brings a calm, grounded presence to projects, knows how to cut through noise, and has a great balance of long-term thinking and day-to-day execution. He’s got deep frontend chops, but what really stands out is how thoughtful he is not only about what gets built, but about how to best understand the problem at hand, and how we can forge the most effective path to a solution. I’ve grown a lot as a developer working with him, and any team would be lucky to have his mix of curiosity, leadership, and just a general no-BS approach to building things that matter."
+    }
+  ]
+}

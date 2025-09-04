@@ -1,0 +1,27 @@
+{
+  "source": "projects",
+  "documentTemplate": "Project I have worked on: ${project} • Description: ${description} • Skills and Technologies: ${skillsTech} • Role: ${role} • [More info](${link})",
+  "documents": [
+    {
+      "project": "KinHR Rebuild & Acquisition",
+      "description": "Led product and engineering for KinHR, a SaaS platform focused on workplace operations, employee onboarding, and HR process automation. Oversaw strategy, execution, and delivery across a multidisciplinary team from product rebuild to eventual acquisition. Directed the full redesign and rebuild of the platform, partnering with stakeholders, engineers, and designers to improve usability, performance, and product-market fit. Introduced a component-based design system in Vue, implemented frontend standards and accessibility practices, and worked closely with internal users and clients to iterate on core functionality. Contributed to the successful acquisition of KinHR by Wagepoint in 2022, supporting transition and integration efforts across engineering and operations. Highlights: Rebuilt KinHR from the ground up, improving product usability, performance, and development velocity; Led design system creation and frontend architecture in Vue.js, supporting a scalable component strategy; Helped drive product vision, roadmap planning, and team processes across design, engineering, and customer support; Played a key role in a successful acquisition and led technical onboarding of new team members post-sale",
+      "skillsTech": "Frontend Architecture, Continuous Integration and Continuous Delivery (CI/CD), Client Collaboration, Developer Experience (DX), Team Building, Stakeholder Communication, Technical Leadership, Responsive Web Design, Project Scope Development, Cross-functional Collaborations, Design Systems, Web Content Accessibility Guidelines (WCAG), Product Engineering, Roadmap Planning",
+      "role": "Technical Lead",
+      "link": "https://wagepoint.com/blog/wagepoint-acquires-kinhr-to-build-ultimate-workplace-happiness-solution"
+    },
+    {
+      "project": "Meta F8 Conference",
+      "description": "Partnered with Meta's design and engineering teams to develop the F8 Developer Conference site. Led frontend implementation using React and modern web standards, delivering a performant, responsive experience for a global audience. Collaborated on UX refinement, accessibility improvements, and cross-browser compatibility. Balanced creative design execution with strict brand guidelines and infrastructure constraints to support the high-visibility event launch. Highlights: Delivered full responsive frontend for a flagship Meta event site using React; Aligned across multiple internal teams to support performance, accessibility, and launch timing; Contributed to a successful public rollout viewed by millions of developers worldwide",
+      "skillsTech": "Consulting, Cross-functional Collaboration, React, Node.js, Technical Leadership, Roadmap Planning, Product Management",
+      "role": "Senior Frontend Engineer",
+      "link": "https://abruno.net/project/meta-f8-conference"
+    },
+    {
+      "project": "Kin Engineering Manager - Developer Experience & AI Enablement",
+      "description": "Led comprehensive developer experience and AI enablement initiatives as Engineering Manager at Kin, focusing on enabling engineers to work faster and more efficiently through better tooling, processes, and automation. Standardized linting, formatting, and project configurations across repositories through kin-dev-config package, reducing setup time and eliminating configuration drift that slowed down development. Created AI enablement strategy and rollout plan that empowered engineers to leverage AI tools safely and effectively, accelerating code generation, testing, and documentation tasks. Built privacy-first AI integration proof of concept using RAG, ChromaDB, and OpenRouter to demonstrate secure data handling, enabling engineers to confidently integrate AI into their workflows. Developed internal project starter CLI tool that scaffolds new applications with standardized templates, dependencies, and developer tooling, reducing project setup time from hours to minutes and ensuring consistent development environments. Led cross-functional product clarification and alignment for financial wellness platform by defining key unknowns, MVP scope, and user flows, enabling faster decision-making and reducing engineering churn that was blocking progress. Highlights: Published shared @kin/dev-config package that eliminated onboarding friction and ensured consistent development workflows across all engineers; Authored AI strategy documentation that reduced uncertainty and accelerated team-wide AI literacy, enabling engineers to work smarter; Built CLI tool that automated project setup, cutting new project initialization from hours to minutes; Facilitated product alignment that reduced miscommunication and enabled engineers to build with confidence",
+      "skillsTech": "Engineering Management, Developer Experience (DX), AI Strategy, RAG, ChromaDB, OpenRouter, CLI Development, Cross-functional Leadership, Product Strategy, Technical Leadership, Team Building, Process Improvement, Documentation, Stakeholder Communication",
+      "role": "Engineering Manager",
+      "link": "https://kinhq.com"
+    }
+  ]
+}

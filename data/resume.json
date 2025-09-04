@@ -3,10 +3,34 @@
   "documentTemplate": "${role} at ${company} from ${dates} and did the following: ${description}",
   "documents": [
     {
-      "role": "Senior Software Engineer",
-      "company": "Kin Workplace Software",
-      "dates": "2025 to present",
-      "description": "Led the development of a new AI-powered productivity tool that helps users track their time and stay on top of their work."
+      "role": "Engineering Manager",
+      "company": "Kin",
+      "dates": "March 2025 to current",
+      "description": "I manage a cross-functional engineering team delivering both client-facing solutions and internal tools across Kin's consulting and SaaS offerings. This includes initiatives deployed to large-scale enterprise clients through Kin's strategic partnerships, with a focus on performance, maintainability, and scalability. Key initiatives include leading Kin's new portfolio site in a modern Astro + TypeScript stack, standardizing tooling (ESLint, scaffolding, conventions), and integrating AI-assisted development to accelerate prototyping and iteration across projects. I support project scoping, estimation, and resourcing in partnership with PMs, and act as a technical partner to guide prioritization and unblock delivery. I also manage four engineers through 1:1s, code reviews, and career development. I provide regular updates to senior leadership, surfacing risks, progress, and team capacity. Highlights so far: • Delivered scalable frontend architecture for enterprise client-facing platforms, supporting internal operations and external delivery • Improved dev consistency and ramp-up through tooling standards"
+    },
+    {
+      "role": "Senior Frontend Engineer",
+      "company": "Kin",
+      "dates": "March 2022 to April 2025",
+      "description": "Served as a senior IC focused on building scalable frontend systems, improving developer workflows, and helping shape Kin's technical standards across both internal products and client-facing benefit and rewards solutions. Worked in a modern Next.js + TypeScript environment to deliver accessible, performant applications. Led efforts to introduce end-to-end testing (Jest), standardize CI/CD pipelines, and streamline Vercel-based deployments. Collaborated with product and design to scope features, align implementation with user needs, and deliver across a portfolio of workplace benefit tools and communication platforms. Mentored engineers through pair programming, code reviews, and documentation efforts. Represented frontend engineering in internal planning and external client coordination, contributing to systems used by millions of employees through Kin's large-scale consulting partnerships. Highlights: • Boosted performance, SEO, and accessibility by 20%+ via Lighthouse audits • Standardized tooling and CI/CD to speed up releases and improve consistency • Set foundation for EM role through tech leadership and team mentorship"
+    },
+    {
+      "role": "Technical Lead",
+      "company": "Kin",
+      "dates": "May 2018 to March 2022",
+      "description": "Led product and engineering for KinHR, a SaaS platform focused on workplace operations, employee onboarding, and HR process automation. Oversaw strategy, execution, and delivery across a multidisciplinary team from product rebuild to eventual acquisition. Directed the full redesign and rebuild of the platform, partnering with stakeholders, engineers, and designers to improve usability, performance, and product-market fit. Introduced a component-based design system in Vue, implemented frontend standards and accessibility practices, and worked closely with internal users and clients to iterate on core functionality. Contributed to the successful acquisition of KinHR by Wagepoint in 2022, supporting transition and integration efforts across engineering and operations. Highlights: • Rebuilt KinHR from the ground up, improving product usability, performance, and development velocity • Led design system creation and frontend architecture in Vue.js, supporting a scalable component strategy • Helped drive product vision, roadmap planning, and team processes across design, engineering, and customer support • Played a key role in a successful acquisition and led technical onboarding of new team members post-sale"
+    },
+    {
+      "role": "Founder & Consultant",
+      "company": "Cool Studio",
+      "dates": "July 2016 to May 2018",
+      "description": "Founded and led a boutique consulting practice focused on delivering design-led, frontend-focused digital products. Partnered with clients across industries to scope projects, architect technical solutions, and lead execution from start to finish. Worked closely with stakeholders to align business goals with product execution, often balancing design implementation, responsive development, and CMS integrations. Projects included collaborations with engineering and design teams at Meta (F8 Developer Conference), Sitka, Tlon, and Away. Highlights: • Nominated for a Webby Award for client work showcasing creative frontend development and UX • Led frontend implementation for Meta's F8 Conference site using React and performance-first principles • Delivered custom solutions for over 10 clients, owning everything from architecture to launch"
+    },
+    {
+      "role": "Lead Frontend Engineer",
+      "company": "Nelson Cash",
+      "dates": "February 2012 to March 2016",
+      "description": "First engineering hire at Nelson Cash, a digital agency known for brand-driven design and development. Built and led the frontend team as the agency scaled, setting technical standards, delivery practices, and mentoring incoming developers. Led architecture and implementation for dozens of responsive web applications across a range of high-profile clients, including Google, YouTube, Gusto, and Trunk Club. Balanced performance, accessibility, and maintainability while collaborating closely with design and client stakeholders. Contributed to the company's growth during its recognition on the Inc. 5000 Fastest Growing Companies list in 2016. Highlights: • Built and led a frontend team that delivered 30+ responsive web projects • Delivered production applications for clients including Google, YouTube, jQuery, and Gusto • Helped scale internal dev operations during a period of rapid agency growth"
     }
   ]
 }
