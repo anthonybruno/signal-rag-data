@@ -3,6 +3,7 @@ import path from 'path';
 
 import { OpenAIEmbeddingFunction } from '@chroma-core/openai';
 import { ChromaClient } from 'chromadb';
+import { v4 as uuidv4 } from 'uuid';
 
 import { getEnv } from '@/config/env';
 import type * as Types from '@/types';
@@ -37,12 +38,12 @@ function flattenWithTemplate(data: Types.DocumentData): Types.FlattenedData {
     metadatas: [],
   };
 
-  documents.forEach((entry, index) => {
+  documents.forEach((entry) => {
     const doc = documentTemplate.replace(
       /\$\{(\w+)\}/g,
       (_, key) => entry[key] as string,
     );
-    formatted.ids.push(`${source}-${index + 1}`);
+    formatted.ids.push(uuidv4());
     formatted.documents.push(doc);
     formatted.metadatas.push({ source });
   });
